@@ -5,8 +5,8 @@ from html import unescape
 import aiohttp
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://plus.medex.com.bd/brands?__m_asn=Roar%20Zone&page={}"
-TOTAL_PAGES = 847
+BASE_URL = "https://plus.medex.com.bd/brands?page={}"
+BATCH_SIZE = 20
 CONCURRENCY_LIMIT = 20
 OUTPUT_FILE = "list.json"
 
@@ -17,11 +17,14 @@ def parse_generics(generic_str: str) -> list:
     parts = re.split(r'[,+&]', generic_str)
     return [p.strip() for p in parts if p.strip()]
 
-def parse_page_html(html: str) -> list:
+def parse_page_html(html: str) -> tuple[list, bool]:
     soup = BeautifulSoup(html, "html.parser")
     cards = soup.find_all("a", class_="brand-card")
-    results = []
 
+    # Check if page indicates no brands found or contains no brand cards
+    is_empty = len(cards) == 0 or "no brands found" in html.lower()
+
+    results = []
     for card in cards:
         # Brand Name
         brand_elem = card.find("span", class_="brand-card__name")
@@ -54,9 +57,9 @@ def parse_page_html(html: str) -> list:
             "dosage_form": dosage_form
         })
 
-    return results
+    return results, is_empty
 
-async def fetch_page(session: aiohttp.ClientSession, semaphore: asyncio.Semaphore, page: int, retries: int = 3) -> tuple:
+async def fetch_page(session: aiohttp.ClientSession, semaphore: asyncio.Semaphore, page: int, retries: int = 3) -> tuple[int, list, bool]:
     url = BASE_URL.format(page)
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -68,8 +71,8 @@ async def fetch_page(session: aiohttp.ClientSession, semaphore: asyncio.Semaphor
                 async with session.get(url, headers=headers, timeout=aiohttp.ClientTimeout(total=30)) as response:
                     if response.status == 200:
                         html = await response.text()
-                        items = parse_page_html(html)
-                        return page, items
+                        items, is_empty = parse_page_html(html)
+                        return page, items, is_empty
                     else:
                         print(f"Warning: Page {page} returned status {response.status}. Attempt {attempt+1}/{retries}")
             except Exception as e:
@@ -77,23 +80,35 @@ async def fetch_page(session: aiohttp.ClientSession, semaphore: asyncio.Semaphor
             await asyncio.sleep(1 * (attempt + 1))
 
     print(f"Failed to fetch page {page} after {retries} attempts.")
-    return page, []
+    return page, [], False
 
 async def main():
     semaphore = asyncio.Semaphore(CONCURRENCY_LIMIT)
     connector = aiohttp.TCPConnector(limit=CONCURRENCY_LIMIT)
 
-    print(f"Starting scraper for {TOTAL_PAGES} pages...")
-    async with aiohttp.ClientSession(connector=connector) as session:
-        tasks = [fetch_page(session, semaphore, page) for page in range(1, TOTAL_PAGES + 1)]
-        results = await asyncio.gather(*tasks)
-
-    # Sort pages in order
-    results.sort(key=lambda x: x[0])
-
+    print("Starting dynamic scraper...")
     all_medicines = []
-    for page, items in results:
-        all_medicines.extend(items)
+    current_page = 1
+    stop_scraping = False
+
+    async with aiohttp.ClientSession(connector=connector) as session:
+        while not stop_scraping:
+            pages_to_fetch = list(range(current_page, current_page + BATCH_SIZE))
+            tasks = [fetch_page(session, semaphore, page) for page in pages_to_fetch]
+            batch_results = await asyncio.gather(*tasks)
+
+            # Sort batch results by page number
+            batch_results.sort(key=lambda x: x[0])
+
+            for page_num, items, is_empty in batch_results:
+                if is_empty:
+                    print(f"Reached page {page_num} with no medicine data or 'No Brands Found.'. Stopping scraper.")
+                    stop_scraping = True
+                    break
+                all_medicines.extend(items)
+
+            if not stop_scraping:
+                current_page += BATCH_SIZE
 
     print(f"Total medicines scraped: {len(all_medicines)}")
 

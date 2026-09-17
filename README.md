@@ -4,8 +4,8 @@ An automated scraper and structured JSON database of Bangladeshi medicines sourc
 
 ## Features
 
-- **Automated Scraping**: Asynchronous Python scraper built with `aiohttp` and `BeautifulSoup4` that retrieves medicine information across all ~847 brand list pages on MedEx.
-- **Weekly Updates**: Integrated GitHub Actions workflow scheduled to run every Friday at 7:00 AM UTC (`0 7 * * 5`), automatically updating `list.json` if changes are detected.
+- **Automated Scraping**: Asynchronous Python scraper built with `aiohttp` and `BeautifulSoup4` that dynamically retrieves medicine information across brand list pages on MedEx until no further medicines are found.
+- **Weekly Updates**: Integrated GitHub Actions workflow scheduled to run every Friday at 7:00 AM BST (Dhaka time / `0 1 * * 5`), automatically updating `list.json` if changes are detected.
 - **Manual Trigger**: Supports manual execution via GitHub Actions (`workflow_dispatch`).
 
 ## Dataset (`list.json`)
@@ -53,6 +53,10 @@ To run the scraper script manually on your local environment:
    ```
 
 3. The updated dataset will be output to `list.json`.
+
+## Credits
+
+Md. Abdullah Bari Asif.
 
 ## License & Usage
 
