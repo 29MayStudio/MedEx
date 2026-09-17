@@ -5,7 +5,7 @@ from html import unescape
 import aiohttp
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://plus.medex.com.bd/brands?__m_asn=Roar%20Zone&page={}"
+BASE_URL = "https://plus.medex.com.bd/brands?page={}"
 BATCH_SIZE = 20
 CONCURRENCY_LIMIT = 20
 OUTPUT_FILE = "list.json"
