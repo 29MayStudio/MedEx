@@ -15513,6 +15513,15 @@
     "dosage_form": "Syrup"
   },
   {
+    "brand_name": "Arixatin",
+    "power": "5 mg/ml",
+    "generic_names": [
+      "Oxaliplatin"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "IV Infusion"
+  },
+  {
     "brand_name": "Arixon",
     "power": "250 mg/vial",
     "generic_names": [
@@ -33769,12 +33778,12 @@
   },
   {
     "brand_name": "Candinil",
-    "power": "50 mg",
+    "power": "50 mg/5 ml",
     "generic_names": [
       "Fluconazole"
     ],
     "manufacturer": "Healthcare Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Candinil",
@@ -61904,6 +61913,24 @@
       "Docetaxel Trihydrate"
     ],
     "manufacturer": "ZAS Corporation",
+    "dosage_form": "IV Infusion"
+  },
+  {
+    "brand_name": "Docetel",
+    "power": "20 mg/vial",
+    "generic_names": [
+      "Docetaxel Trihydrate"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "IV Infusion"
+  },
+  {
+    "brand_name": "Docetel",
+    "power": "80 mg/vial",
+    "generic_names": [
+      "Docetaxel Trihydrate"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
     "dosage_form": "IV Infusion"
   },
   {
@@ -103266,6 +103293,15 @@
     "dosage_form": "Cream"
   },
   {
+    "brand_name": "Imida",
+    "power": "0.1 mg",
+    "generic_names": [
+      "Imidafenacin"
+    ],
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Imigra",
     "power": "5 mg",
     "generic_names": [
@@ -104153,7 +104189,7 @@
   },
   {
     "brand_name": "Indula",
-    "power": "200 mcg",
+    "power": "25 mcg",
     "generic_names": [
       "Misoprostol"
     ],
@@ -104162,7 +104198,7 @@
   },
   {
     "brand_name": "Indula",
-    "power": "25 mcg",
+    "power": "200 mcg",
     "generic_names": [
       "Misoprostol"
     ],
@@ -104676,6 +104712,15 @@
   },
   {
     "brand_name": "Initer",
+    "power": "1000 IU",
+    "generic_names": [
+      "Erythropoietin Alfa"
+    ],
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosage_form": "IV/SC Injection"
+  },
+  {
+    "brand_name": "Initer",
     "power": "2000 IU",
     "generic_names": [
       "Erythropoietin Alfa"
@@ -104704,15 +104749,6 @@
   {
     "brand_name": "Initer",
     "power": "10000 IU",
-    "generic_names": [
-      "Erythropoietin Alfa"
-    ],
-    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
-    "dosage_form": "IV/SC Injection"
-  },
-  {
-    "brand_name": "Initer",
-    "power": "1000 IU",
     "generic_names": [
       "Erythropoietin Alfa"
     ],
@@ -105287,21 +105323,21 @@
   },
   {
     "brand_name": "Intafenac",
-    "power": "0.1%",
-    "generic_names": [
-      "Diclofenac Sodium (Ophthalmic)"
-    ],
-    "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "Ophthalmic Solution"
-  },
-  {
-    "brand_name": "Intafenac",
     "power": "50 mg",
     "generic_names": [
       "Diclofenac Sodium"
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Intafenac",
+    "power": "0.1%",
+    "generic_names": [
+      "Diclofenac Sodium (Ophthalmic)"
+    ],
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosage_form": "Ophthalmic Solution"
   },
   {
     "brand_name": "Intafenac K",
@@ -184441,6 +184477,36 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Rovast EZ",
+    "power": "20 mg+10 mg",
+    "generic_names": [
+      "Rosuvastatin",
+      "Ezetimibe"
+    ],
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Rovast EZ",
+    "power": "10 mg+10 mg",
+    "generic_names": [
+      "Rosuvastatin",
+      "Ezetimibe"
+    ],
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Rovast EZ",
+    "power": "5 mg+10 mg",
+    "generic_names": [
+      "Rosuvastatin",
+      "Ezetimibe"
+    ],
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Rovator",
     "power": "5 mg",
     "generic_names": [
@@ -211046,6 +211112,15 @@
     "dosage_form": "Ophthalmic Solution"
   },
   {
+    "brand_name": "Travaris",
+    "power": "440 mg/20 ml",
+    "generic_names": [
+      "Trastuzumab"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "IV Infusion"
+  },
+  {
     "brand_name": "Travast",
     "power": "0.004%",
     "generic_names": [
@@ -211346,7 +211421,7 @@
   },
   {
     "brand_name": "TRD-Contin",
-    "power": "50 mg",
+    "power": "100 mg",
     "generic_names": [
       "Tramadol Hydrochloride"
     ],
@@ -211355,7 +211430,7 @@
   },
   {
     "brand_name": "TRD-Contin",
-    "power": "100 mg",
+    "power": "50 mg",
     "generic_names": [
       "Tramadol Hydrochloride"
     ],
@@ -226275,6 +226350,33 @@
   {
     "brand_name": "Wikijet",
     "power": "7.5 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Wikijet",
+    "power": "15 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Wikijet",
+    "power": "12.5 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Wikijet",
+    "power": "10 mg/0.5 ml",
     "generic_names": [
       "Tirzepatide"
     ],
