@@ -6297,6 +6297,15 @@
     "dosage_form": "Ophthalmic Solution"
   },
   {
+    "brand_name": "Alercon",
+    "power": "5 mg",
+    "generic_names": [
+      "Olopatadine Hydrochloride"
+    ],
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Alercon DS",
     "power": "0.2%",
     "generic_names": [
@@ -7077,7 +7086,7 @@
   },
   {
     "brand_name": "Alimta",
-    "power": "100 mg/4 ml",
+    "power": "500 mg/20 ml",
     "generic_names": [
       "Pemetrexed"
     ],
@@ -7086,7 +7095,7 @@
   },
   {
     "brand_name": "Alimta",
-    "power": "500 mg/20 ml",
+    "power": "100 mg/4 ml",
     "generic_names": [
       "Pemetrexed"
     ],
@@ -7489,6 +7498,16 @@
     "dosage_form": "Ophthalmic Solution"
   },
   {
+    "brand_name": "Allion D",
+    "power": "",
+    "generic_names": [
+      "Multivitamin [water soluble]",
+      "5% Dextrose"
+    ],
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosage_form": "IV Infusion"
+  },
+  {
     "brand_name": "Allion Gold",
     "power": "",
     "generic_names": [
@@ -7497,6 +7516,16 @@
     ],
     "manufacturer": "Beacon Pharmaceuticals PLC",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Allion N",
+    "power": "",
+    "generic_names": [
+      "Multivitamin  [water soluble]",
+      "Normal Saline"
+    ],
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Allion Silver",
@@ -18907,8 +18936,18 @@
     "dosage_form": "Ophthalmic Solution"
   },
   {
+    "brand_name": "Autotear PF",
+    "power": "0.4%+0.3%",
+    "generic_names": [
+      "Polyethylene Glycol",
+      "Propylene Glycol"
+    ],
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosage_form": "Ophthalmic Solution"
+  },
+  {
     "brand_name": "AV",
-    "power": "10 mg+160 mg",
+    "power": "5 mg+160 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Valsartan"
@@ -18918,7 +18957,7 @@
   },
   {
     "brand_name": "AV",
-    "power": "5 mg+160 mg",
+    "power": "10 mg+160 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Valsartan"
@@ -19898,6 +19937,15 @@
       "Baclofen"
     ],
     "manufacturer": "Novus Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Axcer",
+    "power": "90 mg",
+    "generic_names": [
+      "Ticagrelor"
+    ],
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
     "dosage_form": "Tablet"
   },
   {
@@ -21412,6 +21460,15 @@
   },
   {
     "brand_name": "Azithromycin",
+    "power": "200 mg/5 ml",
+    "generic_names": [
+      "Azithromycin Dihydrate"
+    ],
+    "manufacturer": "Premier Pharmaceuticals Ltd.",
+    "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Azithromycin",
     "power": "250 mg",
     "generic_names": [
       "Azithromycin Dihydrate"
@@ -21427,15 +21484,6 @@
     ],
     "manufacturer": "Pharmik Laboratories Ltd.",
     "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Azithromycin",
-    "power": "200 mg/5 ml",
-    "generic_names": [
-      "Azithromycin Dihydrate"
-    ],
-    "manufacturer": "Premier Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Azithron",
@@ -39560,15 +39608,6 @@
   },
   {
     "brand_name": "Cemix-3",
-    "power": "200 mg",
-    "generic_names": [
-      "Cefixime Trihydrate"
-    ],
-    "manufacturer": "Seema Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Cemix-3",
     "power": "100 mg/5 ml",
     "generic_names": [
       "Cefixime Trihydrate"
@@ -39577,13 +39616,22 @@
     "dosage_form": "Powder for Suspension"
   },
   {
+    "brand_name": "Cemix-3",
+    "power": "200 mg",
+    "generic_names": [
+      "Cefixime Trihydrate"
+    ],
+    "manufacturer": "Seema Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule"
+  },
+  {
     "brand_name": "Cemoxin",
-    "power": "250 mg",
+    "power": "125 mg/5 ml",
     "generic_names": [
       "Amoxicillin Trihydrate"
     ],
     "manufacturer": "Central Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Cemoxin",
@@ -62348,6 +62396,15 @@
     "dosage_form": "Capsule"
   },
   {
+    "brand_name": "Dolospa",
+    "power": "3 mg",
+    "generic_names": [
+      "Pridinol Mesilate"
+    ],
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Doltro",
     "power": "10 mg",
     "generic_names": [
@@ -72339,6 +72396,15 @@
     "dosage_form": "IV/SC Injection"
   },
   {
+    "brand_name": "Epride",
+    "power": "50 mg",
+    "generic_names": [
+      "Itopride Hydrochloride"
+    ],
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Eprox",
     "power": "500 mg",
     "generic_names": [
@@ -75097,6 +75163,15 @@
   },
   {
     "brand_name": "Esowell",
+    "power": "20 mg",
+    "generic_names": [
+      "Esomeprazole"
+    ],
+    "manufacturer": "National Drug Co. Ltd.",
+    "dosage_form": "Capsule (Enteric Coated)"
+  },
+  {
+    "brand_name": "Esowell",
     "power": "40 mg",
     "generic_names": [
       "Esomeprazole"
@@ -75112,15 +75187,6 @@
     ],
     "manufacturer": "National Drug Co. Ltd.",
     "dosage_form": "Tablet (Enteric Coated)"
-  },
-  {
-    "brand_name": "Esowell",
-    "power": "20 mg",
-    "generic_names": [
-      "Esomeprazole"
-    ],
-    "manufacturer": "National Drug Co. Ltd.",
-    "dosage_form": "Capsule (Enteric Coated)"
   },
   {
     "brand_name": "Esoxen",
@@ -95271,6 +95337,15 @@
     "dosage_form": "IV Infusion"
   },
   {
+    "brand_name": "Gesta TS",
+    "power": "750 mg/3 ml",
+    "generic_names": [
+      "Hydroxyprogesterone Caproate"
+    ],
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosage_form": "IM Injection"
+  },
+  {
     "brand_name": "Gestcare",
     "power": "",
     "generic_names": [
@@ -98495,6 +98570,15 @@
     ],
     "manufacturer": "Ad-din Pharmaceuticals Ltd.",
     "dosage_form": "Pediatric Drops"
+  },
+  {
+    "brand_name": "Gutwin",
+    "power": "50 mg",
+    "generic_names": [
+      "Itopride Hydrochloride"
+    ],
+    "manufacturer": "C2C Pharma Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Gvsil",
@@ -119646,6 +119730,15 @@
     "dosage_form": "Capsule"
   },
   {
+    "brand_name": "Loranix",
+    "power": "100 mg",
+    "generic_names": [
+      "Lorlatinib"
+    ],
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Lorapam",
     "power": "4 mg/ml",
     "generic_names": [
@@ -119900,7 +119993,7 @@
   },
   {
     "brand_name": "Losa",
-    "power": "50 mg",
+    "power": "25 mg",
     "generic_names": [
       "Losartan Potassium"
     ],
@@ -119909,7 +120002,7 @@
   },
   {
     "brand_name": "Losa",
-    "power": "25 mg",
+    "power": "50 mg",
     "generic_names": [
       "Losartan Potassium"
     ],
@@ -133028,6 +133121,15 @@
   {
     "brand_name": "Montaro",
     "power": "5 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Montaro",
+    "power": "7.5 mg/0.5 ml",
     "generic_names": [
       "Tirzepatide"
     ],
@@ -171796,7 +171898,7 @@
       "5% Dextrose"
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "IV Injection or Infusion"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Proviten Gold",
@@ -171817,7 +171919,7 @@
       "5% Dextrose"
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "IV Injection or Infusion"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Proviten JR",
@@ -171858,7 +171960,7 @@
       "Normal Saline"
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "IV Injection or Infusion"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Provive MCT-LCT 1%",
@@ -179466,6 +179568,24 @@
     "dosage_form": "Capsule"
   },
   {
+    "brand_name": "Resirom",
+    "power": "100 mg",
+    "generic_names": [
+      "Resmetirom"
+    ],
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Resirom",
+    "power": "80 mg",
+    "generic_names": [
+      "Resmetirom"
+    ],
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Resitone",
     "power": "20 mg+50 mg",
     "generic_names": [
@@ -179557,6 +179677,15 @@
       "Resmetirom"
     ],
     "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Resmitor",
+    "power": "80 mg",
+    "generic_names": [
+      "Resmetirom"
+    ],
+    "manufacturer": "Pharmasia Limited",
     "dosage_form": "Tablet"
   },
   {
@@ -203677,7 +203806,7 @@
     "dosage_form": "Tablet"
   },
   {
-    "brand_name": "Telmilock",
+    "brand_name": "Telmilok",
     "power": "40 mg",
     "generic_names": [
       "Telmisartan"
@@ -203688,6 +203817,15 @@
   {
     "brand_name": "Telmilok",
     "power": "80 mg",
+    "generic_names": [
+      "Telmisartan"
+    ],
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Telmilok",
+    "power": "20 mg",
     "generic_names": [
       "Telmisartan"
     ],
@@ -206741,6 +206879,15 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Thyronor",
+    "power": "125 mcg",
+    "generic_names": [
+      "Levothyroxine Sodium"
+    ],
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Thyrotab",
     "power": "50 mcg",
     "generic_names": [
@@ -207501,7 +207648,7 @@
   },
   {
     "brand_name": "Tildex",
-    "power": "90 mg",
+    "power": "60 mg",
     "generic_names": [
       "Ticagrelor"
     ],
@@ -207510,7 +207657,7 @@
   },
   {
     "brand_name": "Tildex",
-    "power": "60 mg",
+    "power": "90 mg",
     "generic_names": [
       "Ticagrelor"
     ],
@@ -207830,15 +207977,6 @@
   },
   {
     "brand_name": "Timozin",
-    "power": "50 mg",
-    "generic_names": [
-      "Tiemonium Methylsulfate"
-    ],
-    "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Timozin",
     "power": "5 mg/2 ml",
     "generic_names": [
       "Tiemonium Methylsulfate"
@@ -207854,6 +207992,15 @@
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
     "dosage_form": "Syrup"
+  },
+  {
+    "brand_name": "Timozin",
+    "power": "50 mg",
+    "generic_names": [
+      "Tiemonium Methylsulfate"
+    ],
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Tinabil",
@@ -213983,6 +214130,15 @@
     ],
     "manufacturer": "One Pharma Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Truzole SB",
+    "power": "65 mg",
+    "generic_names": [
+      "Itraconazole"
+    ],
+    "manufacturer": "One Pharma Ltd.",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Tryptin",
@@ -234615,7 +234771,7 @@
       "5% Dextrose"
     ],
     "manufacturer": "Opsonin Pharma Ltd.",
-    "dosage_form": "IV Injection or Infusion"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Zovia Gold",
@@ -234656,7 +234812,7 @@
       "Normal Saline"
     ],
     "manufacturer": "Opsonin Pharma Ltd.",
-    "dosage_form": "IV Injection or Infusion"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Zovia Silver",
