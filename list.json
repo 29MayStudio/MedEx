@@ -4146,6 +4146,15 @@
     "dosage_form": "Injection"
   },
   {
+    "brand_name": "Adrenaline Aguettant",
+    "power": "1 mg/ml",
+    "generic_names": [
+      "Adrenaline"
+    ],
+    "manufacturer": "ZAS Corporation",
+    "dosage_form": "Injection"
+  },
+  {
     "brand_name": "Adribin",
     "power": "2 mg/ml",
     "generic_names": [
@@ -8303,7 +8312,7 @@
   },
   {
     "brand_name": "Alvenor",
-    "power": "450 mg+50 mg",
+    "power": "900 mg+100 mg",
     "generic_names": [
       "Diosmin",
       "Hesperidin"
@@ -32245,7 +32254,7 @@
       "Calcium Gluconate"
     ],
     "manufacturer": "Edruc Limited",
-    "dosage_form": "IM/IV Injection"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Calac",
@@ -32725,7 +32734,7 @@
       "Calcium Gluconate"
     ],
     "manufacturer": "Ambee Pharmaceuticals Ltd.",
-    "dosage_form": "IM/IV Injection"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Calcium D",
@@ -32745,6 +32754,15 @@
     ],
     "manufacturer": "Pharmik Laboratories Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Calcium gluconate Aguettant",
+    "power": "500 mg/5 ml",
+    "generic_names": [
+      "Calcium Gluconate"
+    ],
+    "manufacturer": "ZAS Corporation",
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Calcium Vitamin C & D",
@@ -32774,7 +32792,7 @@
       "Calcium Gluconate"
     ],
     "manufacturer": "Jayson Pharmaceutical Ltd.",
-    "dosage_form": "IM/IV Injection"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Calcixen",
@@ -39287,21 +39305,21 @@
   },
   {
     "brand_name": "Ceftron",
-    "power": "500 mg/vial",
-    "generic_names": [
-      "Ceftriaxone Sodium"
-    ],
-    "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "IV Injection"
-  },
-  {
-    "brand_name": "Ceftron",
     "power": "1 gm/vial",
     "generic_names": [
       "Ceftriaxone Sodium"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "IV Injection"
+    "dosage_form": "IM Injection"
+  },
+  {
+    "brand_name": "Ceftron",
+    "power": "500 mg/vial",
+    "generic_names": [
+      "Ceftriaxone Sodium"
+    ],
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosage_form": "IM Injection"
   },
   {
     "brand_name": "Ceftron",
@@ -91961,7 +91979,7 @@
       "Calcium Gluconate"
     ],
     "manufacturer": "Gonoshasthaya Pharma Ltd.",
-    "dosage_form": "IM/IV Injection"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "G-Calcium Lactate",
