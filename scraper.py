@@ -5,7 +5,10 @@ from html import unescape
 import aiohttp
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://plus.medex.com.bd/brands?page={}"
+TARGET_URLS = [
+    ("standard brands", "https://plus.medex.com.bd/brands?page={}"),
+    ("herbal brands", "https://plus.medex.com.bd/brands?herbal=&page={}")
+]
 BATCH_SIZE = 20
 CONCURRENCY_LIMIT = 20
 OUTPUT_FILE = "list.json"
@@ -59,8 +62,8 @@ def parse_page_html(html: str) -> tuple[list, bool]:
 
     return results, is_empty
 
-async def fetch_page(session: aiohttp.ClientSession, semaphore: asyncio.Semaphore, page: int, retries: int = 3) -> tuple[int, list, bool]:
-    url = BASE_URL.format(page)
+async def fetch_page(session: aiohttp.ClientSession, semaphore: asyncio.Semaphore, url_template: str, page: int, retries: int = 3) -> tuple[int, list, bool]:
+    url = url_template.format(page)
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
@@ -82,35 +85,46 @@ async def fetch_page(session: aiohttp.ClientSession, semaphore: asyncio.Semaphor
     print(f"Failed to fetch page {page} after {retries} attempts.")
     return page, [], False
 
+async def scrape_target(session: aiohttp.ClientSession, semaphore: asyncio.Semaphore, label: str, url_template: str) -> list:
+    print(f"Starting extraction for {label}...")
+    medicines = []
+    current_page = 1
+    stop_scraping = False
+
+    while not stop_scraping:
+        pages_to_fetch = list(range(current_page, current_page + BATCH_SIZE))
+        tasks = [fetch_page(session, semaphore, url_template, page) for page in pages_to_fetch]
+        batch_results = await asyncio.gather(*tasks)
+
+        # Sort batch results by page number
+        batch_results.sort(key=lambda x: x[0])
+
+        for page_num, items, is_empty in batch_results:
+            if is_empty:
+                print(f"Reached page {page_num} with no medicine data or 'No Brands Found.' for {label}. Stopping scraper for {label}.")
+                stop_scraping = True
+                break
+            medicines.extend(items)
+
+        if not stop_scraping:
+            current_page += BATCH_SIZE
+
+    print(f"Total {label} medicines scraped: {len(medicines)}")
+    return medicines
+
 async def main():
     semaphore = asyncio.Semaphore(CONCURRENCY_LIMIT)
     connector = aiohttp.TCPConnector(limit=CONCURRENCY_LIMIT)
 
     print("Starting dynamic scraper...")
     all_medicines = []
-    current_page = 1
-    stop_scraping = False
 
     async with aiohttp.ClientSession(connector=connector) as session:
-        while not stop_scraping:
-            pages_to_fetch = list(range(current_page, current_page + BATCH_SIZE))
-            tasks = [fetch_page(session, semaphore, page) for page in pages_to_fetch]
-            batch_results = await asyncio.gather(*tasks)
+        for label, url_template in TARGET_URLS:
+            scraped_items = await scrape_target(session, semaphore, label, url_template)
+            all_medicines.extend(scraped_items)
 
-            # Sort batch results by page number
-            batch_results.sort(key=lambda x: x[0])
-
-            for page_num, items, is_empty in batch_results:
-                if is_empty:
-                    print(f"Reached page {page_num} with no medicine data or 'No Brands Found.'. Stopping scraper.")
-                    stop_scraping = True
-                    break
-                all_medicines.extend(items)
-
-            if not stop_scraping:
-                current_page += BATCH_SIZE
-
-    print(f"Total medicines scraped: {len(all_medicines)}")
+    print(f"Total combined medicines scraped across all targets: {len(all_medicines)}")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(all_medicines, f, ensure_ascii=False, indent=2)
