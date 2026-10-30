@@ -6514,7 +6514,7 @@
   },
   {
     "brand_name": "Alexa",
-    "power": "4000 Anti-Xa IU/0.4 ml",
+    "power": "8000 Anti-Xa IU/0.8 ml",
     "generic_names": [
       "Enoxaparin Sodium"
     ],
@@ -6532,7 +6532,7 @@
   },
   {
     "brand_name": "Alexa",
-    "power": "8000 Anti-Xa IU/0.8 ml",
+    "power": "4000 Anti-Xa IU/0.4 ml",
     "generic_names": [
       "Enoxaparin Sodium"
     ],
@@ -6726,7 +6726,7 @@
   },
   {
     "brand_name": "Algaba",
-    "power": "150 mg",
+    "power": "50 mg",
     "generic_names": [
       "Pregabalin"
     ],
@@ -6744,7 +6744,7 @@
   },
   {
     "brand_name": "Algaba",
-    "power": "50 mg",
+    "power": "150 mg",
     "generic_names": [
       "Pregabalin"
     ],
@@ -6877,17 +6877,6 @@
   },
   {
     "brand_name": "Algicid Plus",
-    "power": "(500 mg+267 mg+160 mg)/10 ml",
-    "generic_names": [
-      "Sodium Alginate",
-      "Sodium Bicarbonate",
-      "Calcium Carbonate"
-    ],
-    "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "Oral Suspension"
-  },
-  {
-    "brand_name": "Algicid Plus",
     "power": "250 mg+133.5 mg+80 mg",
     "generic_names": [
       "Sodium Alginate",
@@ -6896,6 +6885,17 @@
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
     "dosage_form": "Chewable Tablet"
+  },
+  {
+    "brand_name": "Algicid Plus",
+    "power": "(500 mg+267 mg+160 mg)/10 ml",
+    "generic_names": [
+      "Sodium Alginate",
+      "Sodium Bicarbonate",
+      "Calcium Carbonate"
+    ],
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosage_form": "Oral Suspension"
   },
   {
     "brand_name": "Algicon",
@@ -7094,7 +7094,7 @@
   },
   {
     "brand_name": "Alice",
-    "power": "12 mg",
+    "power": "6 mg",
     "generic_names": [
       "Ivermectin (Tablet)"
     ],
@@ -7103,7 +7103,7 @@
   },
   {
     "brand_name": "Alice",
-    "power": "6 mg",
+    "power": "12 mg",
     "generic_names": [
       "Ivermectin (Tablet)"
     ],
@@ -7243,7 +7243,7 @@
   },
   {
     "brand_name": "Alkanon",
-    "power": "500 mg",
+    "power": "750 mg",
     "generic_names": [
       "Nabumetone"
     ],
@@ -7252,7 +7252,7 @@
   },
   {
     "brand_name": "Alkanon",
-    "power": "750 mg",
+    "power": "500 mg",
     "generic_names": [
       "Nabumetone"
     ],
@@ -7481,21 +7481,21 @@
   },
   {
     "brand_name": "Allertin",
-    "power": "20 mg",
-    "generic_names": [
-      "Bilastine"
-    ],
-    "manufacturer": "Navana Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Allertin",
     "power": "12.5 mg/5 ml",
     "generic_names": [
       "Bilastine"
     ],
     "manufacturer": "Navana Pharmaceuticals Ltd.",
     "dosage_form": "Oral Solution"
+  },
+  {
+    "brand_name": "Allertin",
+    "power": "20 mg",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Allertin ODT",
@@ -7612,17 +7612,6 @@
   },
   {
     "brand_name": "Almasil MS",
-    "power": "400 mg+400 mg+30 mg",
-    "generic_names": [
-      "Aluminium Hydroxide",
-      "Magnesium Hydroxide",
-      "Simethicone"
-    ],
-    "manufacturer": "United Pharmaceuticals Ltd.",
-    "dosage_form": "Chewable Tablet"
-  },
-  {
-    "brand_name": "Almasil MS",
     "power": "(400 mg+400 mg+30 mg)/5 ml",
     "generic_names": [
       "Aluminium Hydroxide",
@@ -7631,6 +7620,17 @@
     ],
     "manufacturer": "United Pharmaceuticals Ltd.",
     "dosage_form": "Oral Suspension"
+  },
+  {
+    "brand_name": "Almasil MS",
+    "power": "400 mg+400 mg+30 mg",
+    "generic_names": [
+      "Aluminium Hydroxide",
+      "Magnesium Hydroxide",
+      "Simethicone"
+    ],
+    "manufacturer": "United Pharmaceuticals Ltd.",
+    "dosage_form": "Chewable Tablet"
   },
   {
     "brand_name": "Almex",
@@ -7937,7 +7937,7 @@
   },
   {
     "brand_name": "Alphalok",
-    "power": "2 mg",
+    "power": "1 mg",
     "generic_names": [
       "Prazosin Hydrochloride"
     ],
@@ -7946,7 +7946,7 @@
   },
   {
     "brand_name": "Alphalok",
-    "power": "1 mg",
+    "power": "2 mg",
     "generic_names": [
       "Prazosin Hydrochloride"
     ],
@@ -8009,7 +8009,7 @@
   },
   {
     "brand_name": "Alphapress XR",
-    "power": "5 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Prazosin Hydrochloride"
     ],
@@ -8018,7 +8018,7 @@
   },
   {
     "brand_name": "Alphapress XR",
-    "power": "2.5 mg",
+    "power": "5 mg",
     "generic_names": [
       "Prazosin Hydrochloride"
     ],
@@ -8099,7 +8099,7 @@
   },
   {
     "brand_name": "Alprazol",
-    "power": "0.25 mg",
+    "power": "0.5 mg",
     "generic_names": [
       "Alprazolam"
     ],
@@ -8108,7 +8108,7 @@
   },
   {
     "brand_name": "Alprazol",
-    "power": "0.5 mg",
+    "power": "0.25 mg",
     "generic_names": [
       "Alprazolam"
     ],
@@ -8374,7 +8374,7 @@
       "Multimineral [A-Z gold preparation]"
     ],
     "manufacturer": "Albion Laboratories Limited",
-    "dosage_form": "Tablet"
+    "dosage_form": "Syrup"
   },
   {
     "brand_name": "Alvit Gold",
@@ -8384,7 +8384,7 @@
       "Multimineral [A-Z gold preparation]"
     ],
     "manufacturer": "Albion Laboratories Limited",
-    "dosage_form": "Syrup"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Alvit-B Gold",
@@ -8633,7 +8633,7 @@
   },
   {
     "brand_name": "Amaryl M",
-    "power": "1 mg+500 mg",
+    "power": "2 mg+500 mg",
     "generic_names": [
       "Glimepiride",
       "Metformin"
@@ -8643,7 +8643,7 @@
   },
   {
     "brand_name": "Amaryl M",
-    "power": "2 mg+500 mg",
+    "power": "1 mg+500 mg",
     "generic_names": [
       "Glimepiride",
       "Metformin"
@@ -9347,7 +9347,7 @@
   },
   {
     "brand_name": "Ameloss M",
-    "power": "7 mg+10 mg",
+    "power": "28 mg+10 mg",
     "generic_names": [
       "Memantine",
       "Donepezil"
@@ -9367,7 +9367,7 @@
   },
   {
     "brand_name": "Ameloss M",
-    "power": "28 mg+10 mg",
+    "power": "7 mg+10 mg",
     "generic_names": [
       "Memantine",
       "Donepezil"
@@ -9414,12 +9414,12 @@
   },
   {
     "brand_name": "Amfrad",
-    "power": "125 mg/5 ml",
+    "power": "500 mg",
     "generic_names": [
       "Cephradine"
     ],
     "manufacturer": "Amulet Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Amfrad",
@@ -9432,12 +9432,12 @@
   },
   {
     "brand_name": "Amfrad",
-    "power": "500 mg",
+    "power": "125 mg/5 ml",
     "generic_names": [
       "Cephradine"
     ],
     "manufacturer": "Amulet Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Amibac",
@@ -9460,7 +9460,7 @@
   },
   {
     "brand_name": "AmiClean",
-    "power": "15 mg",
+    "power": "7.5 mg",
     "generic_names": [
       "Sodium Thiosulfate"
     ],
@@ -9469,7 +9469,7 @@
   },
   {
     "brand_name": "AmiClean",
-    "power": "7.5 mg",
+    "power": "15 mg",
     "generic_names": [
       "Sodium Thiosulfate"
     ],
@@ -9515,7 +9515,7 @@
   },
   {
     "brand_name": "Amidol",
-    "power": "370 mg/50 ml",
+    "power": "300 mg/50 ml",
     "generic_names": [
       "Iopamidol"
     ],
@@ -9524,7 +9524,7 @@
   },
   {
     "brand_name": "Amidol",
-    "power": "300 mg/50 ml",
+    "power": "370 mg/50 ml",
     "generic_names": [
       "Iopamidol"
     ],
@@ -9912,7 +9912,7 @@
   },
   {
     "brand_name": "Amipride",
-    "power": "50 mg",
+    "power": "100 mg",
     "generic_names": [
       "Amisulpride"
     ],
@@ -9930,7 +9930,7 @@
   },
   {
     "brand_name": "Amipride",
-    "power": "100 mg",
+    "power": "50 mg",
     "generic_names": [
       "Amisulpride"
     ],
@@ -10024,7 +10024,7 @@
   },
   {
     "brand_name": "Amitip",
-    "power": "10 mg",
+    "power": "25 mg",
     "generic_names": [
       "Amitriptyline Hydrochloride"
     ],
@@ -10033,7 +10033,7 @@
   },
   {
     "brand_name": "Amitip",
-    "power": "25 mg",
+    "power": "10 mg",
     "generic_names": [
       "Amitriptyline Hydrochloride"
     ],
@@ -10146,7 +10146,7 @@
   },
   {
     "brand_name": "Amlohil",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Amlodipine Besilate"
     ],
@@ -10155,7 +10155,7 @@
   },
   {
     "brand_name": "Amlohil",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Amlodipine Besilate"
     ],
@@ -10633,16 +10633,6 @@
   },
   {
     "brand_name": "Amotid CL",
-    "power": "500 mg+125 mg",
-    "generic_names": [
-      "Amoxicillin",
-      "Clavulanic Acid"
-    ],
-    "manufacturer": "Biopharma Limited",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Amotid CL",
     "power": "(125 mg+31.25 mg)/5 ml",
     "generic_names": [
       "Amoxicillin",
@@ -10650,6 +10640,16 @@
     ],
     "manufacturer": "Biopharma Limited",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Amotid CL",
+    "power": "500 mg+125 mg",
+    "generic_names": [
+      "Amoxicillin",
+      "Clavulanic Acid"
+    ],
+    "manufacturer": "Biopharma Limited",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Amotid-F",
@@ -10717,23 +10717,13 @@
   },
   {
     "brand_name": "Amovix",
-    "power": "500 mg+125 mg",
+    "power": "(1 gm+200 mg)/20 ml",
     "generic_names": [
       "Amoxicillin",
       "Clavulanic Acid"
     ],
     "manufacturer": "OSL Pharma Limited",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Amovix",
-    "power": "250 mg+125 mg",
-    "generic_names": [
-      "Amoxicillin",
-      "Clavulanic Acid"
-    ],
-    "manufacturer": "OSL Pharma Limited",
-    "dosage_form": "Tablet"
+    "dosage_form": "IV Injection"
   },
   {
     "brand_name": "Amovix",
@@ -10747,13 +10737,23 @@
   },
   {
     "brand_name": "Amovix",
-    "power": "(1 gm+200 mg)/20 ml",
+    "power": "250 mg+125 mg",
     "generic_names": [
       "Amoxicillin",
       "Clavulanic Acid"
     ],
     "manufacturer": "OSL Pharma Limited",
-    "dosage_form": "IV Injection"
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Amovix",
+    "power": "500 mg+125 mg",
+    "generic_names": [
+      "Amoxicillin",
+      "Clavulanic Acid"
+    ],
+    "manufacturer": "OSL Pharma Limited",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Amoxic",
@@ -11283,7 +11283,7 @@
       "Tramadol Hydrochloride"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "Tablet"
+    "dosage_form": "Retard Tablet"
   },
   {
     "brand_name": "Anadol SR",
@@ -11772,15 +11772,6 @@
   },
   {
     "brand_name": "Andep",
-    "power": "100 mg",
-    "generic_names": [
-      "Sertraline Hydrochloride"
-    ],
-    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Andep",
     "power": "25 mg",
     "generic_names": [
       "Sertraline Hydrochloride"
@@ -11789,8 +11780,17 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Andep",
+    "power": "100 mg",
+    "generic_names": [
+      "Sertraline Hydrochloride"
+    ],
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Andepram",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Escitalopram Oxalate"
     ],
@@ -11799,7 +11799,7 @@
   },
   {
     "brand_name": "Andepram",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Escitalopram Oxalate"
     ],
@@ -11891,7 +11891,7 @@
   },
   {
     "brand_name": "Anestho",
-    "power": "500 mg/vial",
+    "power": "1 gm/vial",
     "generic_names": [
       "Thiopental Sodium"
     ],
@@ -11900,7 +11900,7 @@
   },
   {
     "brand_name": "Anestho",
-    "power": "1 gm/vial",
+    "power": "500 mg/vial",
     "generic_names": [
       "Thiopental Sodium"
     ],
@@ -12334,7 +12334,7 @@
   },
   {
     "brand_name": "Annova",
-    "power": "250 mg",
+    "power": "500 mg",
     "generic_names": [
       "Naproxen Sodium"
     ],
@@ -12343,7 +12343,7 @@
   },
   {
     "brand_name": "Annova",
-    "power": "500 mg",
+    "power": "250 mg",
     "generic_names": [
       "Naproxen Sodium"
     ],
@@ -12370,7 +12370,7 @@
   },
   {
     "brand_name": "Annova Plus",
-    "power": "375 mg+20 mg",
+    "power": "500 mg+20 mg",
     "generic_names": [
       "Naproxen Sodium",
       "Esomeprazole Magnesium"
@@ -12380,7 +12380,7 @@
   },
   {
     "brand_name": "Annova Plus",
-    "power": "500 mg+20 mg",
+    "power": "375 mg+20 mg",
     "generic_names": [
       "Naproxen Sodium",
       "Esomeprazole Magnesium"
@@ -12472,7 +12472,7 @@
   },
   {
     "brand_name": "Anolol",
-    "power": "50 mg",
+    "power": "100 mg",
     "generic_names": [
       "Atenolol"
     ],
@@ -12481,7 +12481,7 @@
   },
   {
     "brand_name": "Anolol",
-    "power": "100 mg",
+    "power": "50 mg",
     "generic_names": [
       "Atenolol"
     ],
@@ -13035,6 +13035,33 @@
     "dosage_form": "Powder for Suspension"
   },
   {
+    "brand_name": "Antipark",
+    "power": "1 mg",
+    "generic_names": [
+      "Trihexyphenidyl Hydrochloride"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Antipark",
+    "power": "2 mg",
+    "generic_names": [
+      "Trihexyphenidyl Hydrochloride"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Antipark",
+    "power": "5 mg",
+    "generic_names": [
+      "Trihexyphenidyl Hydrochloride"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Antiplet",
     "power": "75 mg",
     "generic_names": [
@@ -13206,12 +13233,12 @@
   },
   {
     "brand_name": "Anulid",
-    "power": "100 mg/5 ml",
+    "power": "400 mg",
     "generic_names": [
       "Linezolid"
     ],
     "manufacturer": "Healthcare Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Anulid",
@@ -13224,12 +13251,12 @@
   },
   {
     "brand_name": "Anulid",
-    "power": "400 mg",
+    "power": "100 mg/5 ml",
     "generic_names": [
       "Linezolid"
     ],
     "manufacturer": "Healthcare Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Anustat",
@@ -13367,7 +13394,7 @@
   },
   {
     "brand_name": "Anzitor EZ",
-    "power": "20 mg+10 mg",
+    "power": "10 mg+10 mg",
     "generic_names": [
       "Atorvastatin",
       "Ezetimibe"
@@ -13377,7 +13404,7 @@
   },
   {
     "brand_name": "Anzitor EZ",
-    "power": "10 mg+10 mg",
+    "power": "20 mg+10 mg",
     "generic_names": [
       "Atorvastatin",
       "Ezetimibe"
@@ -13405,7 +13432,7 @@
   },
   {
     "brand_name": "Apagrel",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Prasugrel Hydrochloride"
     ],
@@ -13414,7 +13441,7 @@
   },
   {
     "brand_name": "Apagrel",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Prasugrel Hydrochloride"
     ],
@@ -13613,7 +13640,7 @@
   },
   {
     "brand_name": "Apemilast",
-    "power": "30 mg",
+    "power": "10 mg",
     "generic_names": [
       "Apremilast"
     ],
@@ -13622,7 +13649,7 @@
   },
   {
     "brand_name": "Apemilast",
-    "power": "10 mg",
+    "power": "30 mg",
     "generic_names": [
       "Apremilast"
     ],
@@ -13640,21 +13667,21 @@
   },
   {
     "brand_name": "Apetiz",
-    "power": "160 mg",
-    "generic_names": [
-      "Megestrol Acetate"
-    ],
-    "manufacturer": "Aristopharma Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Apetiz",
     "power": "40 mg/ml",
     "generic_names": [
       "Megestrol Acetate"
     ],
     "manufacturer": "Aristopharma Ltd.",
     "dosage_form": "Oral Suspension"
+  },
+  {
+    "brand_name": "Apetiz",
+    "power": "160 mg",
+    "generic_names": [
+      "Megestrol Acetate"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Apetryl",
@@ -13740,21 +13767,21 @@
   },
   {
     "brand_name": "Apidone",
-    "power": "10 mg",
-    "generic_names": [
-      "Domperidone Maleate"
-    ],
-    "manufacturer": "Team Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Apidone",
     "power": "5 mg/5 ml",
     "generic_names": [
       "Domperidone Maleate"
     ],
     "manufacturer": "Team Pharmaceuticals Ltd.",
     "dosage_form": "Oral Suspension"
+  },
+  {
+    "brand_name": "Apidone",
+    "power": "10 mg",
+    "generic_names": [
+      "Domperidone Maleate"
+    ],
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Apidra",
@@ -13839,12 +13866,12 @@
   },
   {
     "brand_name": "Apit",
-    "power": "40 mg/ml",
+    "power": "160 mg",
     "generic_names": [
       "Megestrol Acetate"
     ],
     "manufacturer": "Drug International Ltd.",
-    "dosage_form": "Oral Suspension"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Apit",
@@ -13857,12 +13884,12 @@
   },
   {
     "brand_name": "Apit",
-    "power": "160 mg",
+    "power": "40 mg/ml",
     "generic_names": [
       "Megestrol Acetate"
     ],
     "manufacturer": "Drug International Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Oral Suspension"
   },
   {
     "brand_name": "Apitac",
@@ -13884,7 +13911,7 @@
   },
   {
     "brand_name": "Apixa",
-    "power": "2.5 mg",
+    "power": "5 mg",
     "generic_names": [
       "Apixaban"
     ],
@@ -13893,7 +13920,7 @@
   },
   {
     "brand_name": "Apixa",
-    "power": "5 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Apixaban"
     ],
@@ -14014,7 +14041,7 @@
   },
   {
     "brand_name": "Aponia",
-    "power": "1000 mg",
+    "power": "750 mg",
     "generic_names": [
       "Nabumetone"
     ],
@@ -14032,7 +14059,7 @@
   },
   {
     "brand_name": "Aponia",
-    "power": "750 mg",
+    "power": "1000 mg",
     "generic_names": [
       "Nabumetone"
     ],
@@ -14796,7 +14823,7 @@
   },
   {
     "brand_name": "Ardance-L",
-    "power": "10 mg+5 mg",
+    "power": "25 mg+5 mg",
     "generic_names": [
       "Empagliflozin",
       "Linagliptin"
@@ -14806,7 +14833,7 @@
   },
   {
     "brand_name": "Ardance-L",
-    "power": "25 mg+5 mg",
+    "power": "10 mg+5 mg",
     "generic_names": [
       "Empagliflozin",
       "Linagliptin"
@@ -14909,7 +14936,7 @@
   },
   {
     "brand_name": "Aride",
-    "power": "50 mg",
+    "power": "200 mg",
     "generic_names": [
       "Amisulpride"
     ],
@@ -14927,7 +14954,7 @@
   },
   {
     "brand_name": "Aride",
-    "power": "200 mg",
+    "power": "50 mg",
     "generic_names": [
       "Amisulpride"
     ],
@@ -15245,7 +15272,7 @@
       "Betamethasone Valerate"
     ],
     "manufacturer": "Aristopharma Ltd.",
-    "dosage_form": "Ointment"
+    "dosage_form": "Cream"
   },
   {
     "brand_name": "Aristobet",
@@ -15254,7 +15281,7 @@
       "Betamethasone Valerate"
     ],
     "manufacturer": "Aristopharma Ltd.",
-    "dosage_form": "Cream"
+    "dosage_form": "Ointment"
   },
   {
     "brand_name": "Aristobet-CL",
@@ -15767,6 +15794,16 @@
   },
   {
     "brand_name": "Arnigen",
+    "power": "97 mg+103 mg",
+    "generic_names": [
+      "Sacubitril",
+      "Valsartan"
+    ],
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Arnigen",
     "power": "49 mg+51 mg",
     "generic_names": [
       "Sacubitril",
@@ -15778,16 +15815,6 @@
   {
     "brand_name": "Arnigen",
     "power": "24 mg+26 mg",
-    "generic_names": [
-      "Sacubitril",
-      "Valsartan"
-    ],
-    "manufacturer": "General Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Arnigen",
-    "power": "97 mg+103 mg",
     "generic_names": [
       "Sacubitril",
       "Valsartan"
@@ -15988,7 +16015,7 @@
   },
   {
     "brand_name": "Aroflo",
-    "power": "50 mcg+250 mcg",
+    "power": "50 mcg+100 mcg",
     "generic_names": [
       "Salmeterol",
       "Fluticasone Propionate"
@@ -16008,7 +16035,7 @@
   },
   {
     "brand_name": "Aroflo",
-    "power": "50 mcg+100 mcg",
+    "power": "50 mcg+250 mcg",
     "generic_names": [
       "Salmeterol",
       "Fluticasone Propionate"
@@ -16683,7 +16710,7 @@
   },
   {
     "brand_name": "Artigest",
-    "power": "200 mg",
+    "power": "100 mg",
     "generic_names": [
       "Progesterone Micronised (Capsule)"
     ],
@@ -16692,7 +16719,7 @@
   },
   {
     "brand_name": "Artigest",
-    "power": "100 mg",
+    "power": "200 mg",
     "generic_names": [
       "Progesterone Micronised (Capsule)"
     ],
@@ -16895,6 +16922,15 @@
   },
   {
     "brand_name": "Ascova",
+    "power": "100 mg/5 ml",
+    "generic_names": [
+      "Doxophylline"
+    ],
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosage_form": "Syrup"
+  },
+  {
+    "brand_name": "Ascova",
     "power": "200 mg",
     "generic_names": [
       "Doxophylline"
@@ -16910,15 +16946,6 @@
     ],
     "manufacturer": "Labaid Pharma Ltd.",
     "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Ascova",
-    "power": "100 mg/5 ml",
-    "generic_names": [
-      "Doxophylline"
-    ],
-    "manufacturer": "Labaid Pharma Ltd.",
-    "dosage_form": "Syrup"
   },
   {
     "brand_name": "Ascovit",
@@ -17616,6 +17643,15 @@
   },
   {
     "brand_name": "Aspasom",
+    "power": "5 mg/2 ml",
+    "generic_names": [
+      "Tiemonium Methylsulfate"
+    ],
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosage_form": "IM/IV Injection"
+  },
+  {
+    "brand_name": "Aspasom",
     "power": "10 mg/5 ml",
     "generic_names": [
       "Tiemonium Methylsulfate"
@@ -17631,15 +17667,6 @@
     ],
     "manufacturer": "Kemiko Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Aspasom",
-    "power": "5 mg/2 ml",
-    "generic_names": [
-      "Tiemonium Methylsulfate"
-    ],
-    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
-    "dosage_form": "IM/IV Injection"
   },
   {
     "brand_name": "Aspirel",
@@ -18512,7 +18539,7 @@
   },
   {
     "brand_name": "Atostin",
-    "power": "10 mg",
+    "power": "20 mg",
     "generic_names": [
       "Atorvastatin Calcium"
     ],
@@ -18521,7 +18548,7 @@
   },
   {
     "brand_name": "Atostin",
-    "power": "20 mg",
+    "power": "10 mg",
     "generic_names": [
       "Atorvastatin Calcium"
     ],
@@ -18851,7 +18878,7 @@
   },
   {
     "brand_name": "ATV Eze",
-    "power": "20 mg+10 mg",
+    "power": "10 mg+10 mg",
     "generic_names": [
       "Atorvastatin",
       "Ezetimibe"
@@ -18861,7 +18888,7 @@
   },
   {
     "brand_name": "ATV Eze",
-    "power": "10 mg+10 mg",
+    "power": "20 mg+10 mg",
     "generic_names": [
       "Atorvastatin",
       "Ezetimibe"
@@ -19195,7 +19222,7 @@
   },
   {
     "brand_name": "Avas EZ",
-    "power": "10 mg+10 mg",
+    "power": "40 mg+10 mg",
     "generic_names": [
       "Atorvastatin",
       "Ezetimibe"
@@ -19215,7 +19242,7 @@
   },
   {
     "brand_name": "Avas EZ",
-    "power": "40 mg+10 mg",
+    "power": "10 mg+10 mg",
     "generic_names": [
       "Atorvastatin",
       "Ezetimibe"
@@ -19688,7 +19715,7 @@
   },
   {
     "brand_name": "Avloclav",
-    "power": "(500 mg+100 mg)/10 ml",
+    "power": "(1 gm+200 mg)/20 ml",
     "generic_names": [
       "Amoxicillin",
       "Clavulanic Acid"
@@ -19698,7 +19725,7 @@
   },
   {
     "brand_name": "Avloclav",
-    "power": "(1 gm+200 mg)/20 ml",
+    "power": "(500 mg+100 mg)/10 ml",
     "generic_names": [
       "Amoxicillin",
       "Clavulanic Acid"
@@ -20261,13 +20288,13 @@
   },
   {
     "brand_name": "Axicef Plus",
-    "power": "250 mg+62.5 mg",
+    "power": "(125 mg+31.25 mg)/5 ml",
     "generic_names": [
       "Cefuroxime Axetil",
       "Clavulanic Acid"
     ],
     "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Axicef Plus",
@@ -20281,17 +20308,17 @@
   },
   {
     "brand_name": "Axicef Plus",
-    "power": "(125 mg+31.25 mg)/5 ml",
+    "power": "250 mg+62.5 mg",
     "generic_names": [
       "Cefuroxime Axetil",
       "Clavulanic Acid"
     ],
     "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Axidin",
-    "power": "40 mg",
+    "power": "20 mg",
     "generic_names": [
       "Famotidine"
     ],
@@ -20300,7 +20327,7 @@
   },
   {
     "brand_name": "Axidin",
-    "power": "20 mg",
+    "power": "40 mg",
     "generic_names": [
       "Famotidine"
     ],
@@ -20411,7 +20438,7 @@
   },
   {
     "brand_name": "Axinat-F",
-    "power": "(25 mcg+125 mcg)/puff",
+    "power": "(25 mcg+250 mcg)/puff",
     "generic_names": [
       "Salmeterol",
       "Fluticasone Propionate"
@@ -20421,7 +20448,7 @@
   },
   {
     "brand_name": "Axinat-F",
-    "power": "(25 mcg+250 mcg)/puff",
+    "power": "(25 mcg+125 mcg)/puff",
     "generic_names": [
       "Salmeterol",
       "Fluticasone Propionate"
@@ -20842,7 +20869,7 @@
   },
   {
     "brand_name": "Azbec",
-    "power": "100 mcg/puff",
+    "power": "250 mcg/puff",
     "generic_names": [
       "Beclomethasone Dipropionate (Inhaler)"
     ],
@@ -20851,7 +20878,7 @@
   },
   {
     "brand_name": "Azbec",
-    "power": "250 mcg/puff",
+    "power": "100 mcg/puff",
     "generic_names": [
       "Beclomethasone Dipropionate (Inhaler)"
     ],
@@ -21019,21 +21046,21 @@
   },
   {
     "brand_name": "Azibact",
-    "power": "200 mg/5 ml",
-    "generic_names": [
-      "Azithromycin Dihydrate"
-    ],
-    "manufacturer": "Goodman Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
-  },
-  {
-    "brand_name": "Azibact",
     "power": "500 mg",
     "generic_names": [
       "Azithromycin Dihydrate"
     ],
     "manufacturer": "Goodman Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Azibact",
+    "power": "200 mg/5 ml",
+    "generic_names": [
+      "Azithromycin Dihydrate"
+    ],
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Azicin",
@@ -21091,21 +21118,21 @@
   },
   {
     "brand_name": "Aziday",
-    "power": "200 mg/5 ml",
-    "generic_names": [
-      "Azithromycin Dihydrate"
-    ],
-    "manufacturer": "SMC Enterprise Ltd",
-    "dosage_form": "Powder for Suspension"
-  },
-  {
-    "brand_name": "Aziday",
     "power": "500 mg",
     "generic_names": [
       "Azithromycin Dihydrate"
     ],
     "manufacturer": "SMC Enterprise Ltd",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Aziday",
+    "power": "200 mg/5 ml",
+    "generic_names": [
+      "Azithromycin Dihydrate"
+    ],
+    "manufacturer": "SMC Enterprise Ltd",
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Aziget",
@@ -21181,7 +21208,7 @@
   },
   {
     "brand_name": "Azilpres",
-    "power": "80 mg",
+    "power": "40 mg",
     "generic_names": [
       "Azilsartan Medoxomil"
     ],
@@ -21190,7 +21217,7 @@
   },
   {
     "brand_name": "Azilpres",
-    "power": "40 mg",
+    "power": "80 mg",
     "generic_names": [
       "Azilsartan Medoxomil"
     ],
@@ -21417,21 +21444,21 @@
   },
   {
     "brand_name": "Azitac",
-    "power": "500 mg",
-    "generic_names": [
-      "Azithromycin Dihydrate"
-    ],
-    "manufacturer": "United Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Azitac",
     "power": "200 mg/5 ml",
     "generic_names": [
       "Azithromycin Dihydrate"
     ],
     "manufacturer": "United Pharmaceuticals Ltd.",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Azitac",
+    "power": "500 mg",
+    "generic_names": [
+      "Azithromycin Dihydrate"
+    ],
+    "manufacturer": "United Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Azitel",
@@ -21606,21 +21633,21 @@
   },
   {
     "brand_name": "Azithron",
-    "power": "500 mg",
-    "generic_names": [
-      "Azithromycin Dihydrate"
-    ],
-    "manufacturer": "Albion Laboratories Limited",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Azithron",
     "power": "200 mg/5 ml",
     "generic_names": [
       "Azithromycin Dihydrate"
     ],
     "manufacturer": "Albion Laboratories Limited",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Azithron",
+    "power": "500 mg",
+    "generic_names": [
+      "Azithromycin Dihydrate"
+    ],
+    "manufacturer": "Albion Laboratories Limited",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Azitor",
@@ -21878,21 +21905,21 @@
   },
   {
     "brand_name": "Azonox",
-    "power": "200 mg",
-    "generic_names": [
-      "Itraconazole"
-    ],
-    "manufacturer": "Opsonin Pharma Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Azonox",
     "power": "100 mg",
     "generic_names": [
       "Itraconazole"
     ],
     "manufacturer": "Opsonin Pharma Ltd.",
     "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "Azonox",
+    "power": "200 mg",
+    "generic_names": [
+      "Itraconazole"
+    ],
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Azonox Ultra",
@@ -21963,21 +21990,21 @@
   },
   {
     "brand_name": "Azosil",
-    "power": "500 mg",
-    "generic_names": [
-      "Azithromycin Dihydrate"
-    ],
-    "manufacturer": "Silco Pharmaceutical Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Azosil",
     "power": "200 mg/5 ml",
     "generic_names": [
       "Azithromycin Dihydrate"
     ],
     "manufacturer": "Silco Pharmaceutical Ltd.",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Azosil",
+    "power": "500 mg",
+    "generic_names": [
+      "Azithromycin Dihydrate"
+    ],
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Azovit Gold",
@@ -22467,7 +22494,7 @@
   },
   {
     "brand_name": "Backtone",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Baclofen"
     ],
@@ -22476,7 +22503,7 @@
   },
   {
     "brand_name": "Backtone",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Baclofen"
     ],
@@ -22695,21 +22722,21 @@
   },
   {
     "brand_name": "Bactacef",
-    "power": "500 mg",
-    "generic_names": [
-      "Cephradine"
-    ],
-    "manufacturer": "Silco Pharmaceutical Ltd.",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Bactacef",
     "power": "125 mg/5 ml",
     "generic_names": [
       "Cephradine"
     ],
     "manufacturer": "Silco Pharmaceutical Ltd.",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Bactacef",
+    "power": "500 mg",
+    "generic_names": [
+      "Cephradine"
+    ],
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Bactacef DS",
@@ -22758,12 +22785,12 @@
   },
   {
     "brand_name": "Bactazim",
-    "power": "200 mg",
+    "power": "100 mg/5 ml",
     "generic_names": [
       "Cefixime Trihydrate"
     ],
     "manufacturer": "Silco Pharmaceutical Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Bactazim",
@@ -22776,12 +22803,12 @@
   },
   {
     "brand_name": "Bactazim",
-    "power": "100 mg/5 ml",
+    "power": "200 mg",
     "generic_names": [
       "Cefixime Trihydrate"
     ],
     "manufacturer": "Silco Pharmaceutical Ltd.",
-    "dosage_form": "Powder for Suspension"
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Bactikil",
@@ -23004,12 +23031,12 @@
   },
   {
     "brand_name": "Bakticef",
-    "power": "500 mg/vial",
+    "power": "2 gm/vial",
     "generic_names": [
       "Ceftriaxone Sodium"
     ],
     "manufacturer": "OSL Pharma Limited",
-    "dosage_form": "IM Injection"
+    "dosage_form": "IV Injection"
   },
   {
     "brand_name": "Bakticef",
@@ -23022,12 +23049,12 @@
   },
   {
     "brand_name": "Bakticef",
-    "power": "2 gm/vial",
+    "power": "500 mg/vial",
     "generic_names": [
       "Ceftriaxone Sodium"
     ],
     "manufacturer": "OSL Pharma Limited",
-    "dosage_form": "IV Injection"
+    "dosage_form": "IM Injection"
   },
   {
     "brand_name": "Balancia",
@@ -23058,7 +23085,7 @@
   },
   {
     "brand_name": "Baloxa",
-    "power": "20 mg",
+    "power": "40 mg",
     "generic_names": [
       "Baloxavir Marboxil"
     ],
@@ -23067,7 +23094,7 @@
   },
   {
     "brand_name": "Baloxa",
-    "power": "40 mg",
+    "power": "20 mg",
     "generic_names": [
       "Baloxavir Marboxil"
     ],
@@ -23102,7 +23129,7 @@
       "Betamethasone Valerate"
     ],
     "manufacturer": "DBL Pharmaceuticals Ltd.",
-    "dosage_form": "Ointment"
+    "dosage_form": "Cream"
   },
   {
     "brand_name": "Bantovet",
@@ -23111,7 +23138,7 @@
       "Betamethasone Valerate"
     ],
     "manufacturer": "DBL Pharmaceuticals Ltd.",
-    "dosage_form": "Cream"
+    "dosage_form": "Ointment"
   },
   {
     "brand_name": "Bantovet-CL",
@@ -23336,7 +23363,7 @@
   },
   {
     "brand_name": "Barri",
-    "power": "2 mg",
+    "power": "4 mg",
     "generic_names": [
       "Baricitinib"
     ],
@@ -23345,7 +23372,7 @@
   },
   {
     "brand_name": "Barri",
-    "power": "4 mg",
+    "power": "2 mg",
     "generic_names": [
       "Baricitinib"
     ],
@@ -23878,16 +23905,6 @@
   },
   {
     "brand_name": "Belsar-M",
-    "power": "5 mg+40 mg",
-    "generic_names": [
-      "Amlodipine Besilate",
-      "Olmesartan Medoxomil"
-    ],
-    "manufacturer": "Beacon Pharmaceuticals PLC",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Belsar-M",
     "power": "5 mg+20 mg",
     "generic_names": [
       "Amlodipine Besilate",
@@ -23897,12 +23914,13 @@
     "dosage_form": "Tablet"
   },
   {
-    "brand_name": "Beltas",
-    "power": "20 mg",
+    "brand_name": "Belsar-M",
+    "power": "5 mg+40 mg",
     "generic_names": [
-      "Bilastine"
+      "Amlodipine Besilate",
+      "Olmesartan Medoxomil"
     ],
-    "manufacturer": "Opsonin Pharma Ltd.",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
     "dosage_form": "Tablet"
   },
   {
@@ -23913,6 +23931,15 @@
     ],
     "manufacturer": "Opsonin Pharma Ltd.",
     "dosage_form": "Oral Solution"
+  },
+  {
+    "brand_name": "Beltas",
+    "power": "20 mg",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Beltas Kids",
@@ -24180,15 +24207,6 @@
   },
   {
     "brand_name": "Benformin",
-    "power": "500 mg",
-    "generic_names": [
-      "Metformin Hydrochloride"
-    ],
-    "manufacturer": "Benham Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Benformin",
     "power": "850 mg",
     "generic_names": [
       "Metformin Hydrochloride"
@@ -24197,10 +24215,10 @@
     "dosage_form": "Tablet"
   },
   {
-    "brand_name": "Benidon",
-    "power": "10 mg",
+    "brand_name": "Benformin",
+    "power": "500 mg",
     "generic_names": [
-      "Domperidone Maleate"
+      "Metformin Hydrochloride"
     ],
     "manufacturer": "Benham Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
@@ -24213,6 +24231,15 @@
     ],
     "manufacturer": "Benham Pharmaceuticals Ltd.",
     "dosage_form": "Oral Suspension"
+  },
+  {
+    "brand_name": "Benidon",
+    "power": "10 mg",
+    "generic_names": [
+      "Domperidone Maleate"
+    ],
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Benkill",
@@ -24234,16 +24261,6 @@
   },
   {
     "brand_name": "Benkill CV",
-    "power": "250 mg+62.5 mg",
-    "generic_names": [
-      "Cefuroxime Axetil",
-      "Clavulanic Acid"
-    ],
-    "manufacturer": "Benham Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Benkill CV",
     "power": "500 mg+125 mg",
     "generic_names": [
       "Cefuroxime Axetil",
@@ -24253,8 +24270,18 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Benkill CV",
+    "power": "250 mg+62.5 mg",
+    "generic_names": [
+      "Cefuroxime Axetil",
+      "Clavulanic Acid"
+    ],
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Benkinson",
-    "power": "50 mg+12.5 mg",
+    "power": "200 mg+50 mg",
     "generic_names": [
       "Levodopa",
       "Benserazide"
@@ -24274,7 +24301,7 @@
   },
   {
     "brand_name": "Benkinson",
-    "power": "200 mg+50 mg",
+    "power": "50 mg+12.5 mg",
     "generic_names": [
       "Levodopa",
       "Benserazide"
@@ -24395,12 +24422,12 @@
   },
   {
     "brand_name": "Benprox",
-    "power": "500 mg",
+    "power": "250 mg/5 ml",
     "generic_names": [
       "Ciprofloxacin"
     ],
     "manufacturer": "Benham Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Benprox",
@@ -24413,12 +24440,12 @@
   },
   {
     "brand_name": "Benprox",
-    "power": "250 mg/5 ml",
+    "power": "500 mg",
     "generic_names": [
       "Ciprofloxacin"
     ],
     "manufacturer": "Benham Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Benquil",
@@ -24484,7 +24511,7 @@
       "Zinc"
     ],
     "manufacturer": "Benham Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Syrup"
   },
   {
     "brand_name": "Benvit-Z",
@@ -24494,7 +24521,7 @@
       "Zinc"
     ],
     "manufacturer": "Benham Pharmaceuticals Ltd.",
-    "dosage_form": "Syrup"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Benz",
@@ -24544,7 +24571,7 @@
   },
   {
     "brand_name": "Benzenod",
-    "power": "3 mg",
+    "power": "1.5 mg",
     "generic_names": [
       "Rivastigmine Tartrate"
     ],
@@ -24553,7 +24580,7 @@
   },
   {
     "brand_name": "Benzenod",
-    "power": "1.5 mg",
+    "power": "3 mg",
     "generic_names": [
       "Rivastigmine Tartrate"
     ],
@@ -24856,7 +24883,7 @@
   },
   {
     "brand_name": "Bestcol",
-    "power": "5 mg",
+    "power": "20 mg",
     "generic_names": [
       "Rosuvastatin Calcium"
     ],
@@ -24874,7 +24901,7 @@
   },
   {
     "brand_name": "Bestcol",
-    "power": "20 mg",
+    "power": "5 mg",
     "generic_names": [
       "Rosuvastatin Calcium"
     ],
@@ -25017,7 +25044,7 @@
   },
   {
     "brand_name": "Betabis Plus",
-    "power": "2.5 mg+6.25 mg",
+    "power": "5 mg+6.25 mg",
     "generic_names": [
       "Bisoprolol Fumarate",
       "Hydrochlorothiazide"
@@ -25027,7 +25054,7 @@
   },
   {
     "brand_name": "Betabis Plus",
-    "power": "5 mg+6.25 mg",
+    "power": "2.5 mg+6.25 mg",
     "generic_names": [
       "Bisoprolol Fumarate",
       "Hydrochlorothiazide"
@@ -25379,7 +25406,7 @@
       "Betamethasone Dipropionate"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "Cream"
+    "dosage_form": "Ointment"
   },
   {
     "brand_name": "Betameson",
@@ -25388,7 +25415,7 @@
       "Betamethasone Dipropionate"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "Ointment"
+    "dosage_form": "Cream"
   },
   {
     "brand_name": "Betameson-CL",
@@ -25838,7 +25865,7 @@
       "Neomycin Sulphate (Topical)"
     ],
     "manufacturer": "NIPRO JMI Pharma Ltd.",
-    "dosage_form": "Ointment"
+    "dosage_form": "Cream"
   },
   {
     "brand_name": "Betnova-N",
@@ -25848,7 +25875,7 @@
       "Neomycin Sulphate (Topical)"
     ],
     "manufacturer": "NIPRO JMI Pharma Ltd.",
-    "dosage_form": "Cream"
+    "dosage_form": "Ointment"
   },
   {
     "brand_name": "Betnozen-N",
@@ -25911,7 +25938,7 @@
   },
   {
     "brand_name": "BetriXa",
-    "power": "40 mg",
+    "power": "80 mg",
     "generic_names": [
       "Betrixaban"
     ],
@@ -25920,7 +25947,7 @@
   },
   {
     "brand_name": "BetriXa",
-    "power": "80 mg",
+    "power": "40 mg",
     "generic_names": [
       "Betrixaban"
     ],
@@ -26193,7 +26220,7 @@
   },
   {
     "brand_name": "Bevixa",
-    "power": "100 mg/4 ml",
+    "power": "400 mg/16 ml",
     "generic_names": [
       "Bevacizumab"
     ],
@@ -26202,7 +26229,7 @@
   },
   {
     "brand_name": "Bevixa",
-    "power": "400 mg/16 ml",
+    "power": "100 mg/4 ml",
     "generic_names": [
       "Bevacizumab"
     ],
@@ -26247,7 +26274,7 @@
   },
   {
     "brand_name": "Bexitrol F",
-    "power": "50 mcg+100 mcg",
+    "power": "50 mcg+500 mcg",
     "generic_names": [
       "Salmeterol",
       "Fluticasone Propionate"
@@ -26267,7 +26294,7 @@
   },
   {
     "brand_name": "Bexitrol F",
-    "power": "50 mcg+500 mcg",
+    "power": "50 mcg+100 mcg",
     "generic_names": [
       "Salmeterol",
       "Fluticasone Propionate"
@@ -26524,7 +26551,7 @@
   },
   {
     "brand_name": "Bidip",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -26533,7 +26560,7 @@
   },
   {
     "brand_name": "Bidip",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -26562,7 +26589,7 @@
   },
   {
     "brand_name": "Biganib",
-    "power": "180 mg",
+    "power": "90 mg",
     "generic_names": [
       "Brigatinib"
     ],
@@ -26571,7 +26598,7 @@
   },
   {
     "brand_name": "Biganib",
-    "power": "90 mg",
+    "power": "180 mg",
     "generic_names": [
       "Brigatinib"
     ],
@@ -26708,21 +26735,21 @@
   },
   {
     "brand_name": "Bilan",
-    "power": "12.5 mg/5 ml",
-    "generic_names": [
-      "Bilastine"
-    ],
-    "manufacturer": "ACME Laboratories Ltd.",
-    "dosage_form": "Oral Solution"
-  },
-  {
-    "brand_name": "Bilan",
     "power": "20 mg",
     "generic_names": [
       "Bilastine"
     ],
     "manufacturer": "ACME Laboratories Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Bilan",
+    "power": "12.5 mg/5 ml",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "Bilan Kids",
@@ -26761,12 +26788,12 @@
     "dosage_form": "Dispersible Tablet"
   },
   {
-    "brand_name": "Bilargo",
+    "brand_name": "Bilanta",
     "power": "20 mg",
     "generic_names": [
       "Bilastine"
     ],
-    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
   },
   {
@@ -26777,6 +26804,15 @@
     ],
     "manufacturer": "Ziska Pharmaceuticals Ltd.",
     "dosage_form": "Oral Solution"
+  },
+  {
+    "brand_name": "Bilargo",
+    "power": "20 mg",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Bilargo ODT",
@@ -26906,21 +26942,21 @@
   },
   {
     "brand_name": "Bilbest",
-    "power": "20 mg",
-    "generic_names": [
-      "Bilastine"
-    ],
-    "manufacturer": "One Pharma Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Bilbest",
     "power": "12.5 mg/5 ml",
     "generic_names": [
       "Bilastine"
     ],
     "manufacturer": "One Pharma Ltd.",
     "dosage_form": "Oral Solution"
+  },
+  {
+    "brand_name": "Bilbest",
+    "power": "20 mg",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "One Pharma Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Bilco",
@@ -26942,16 +26978,6 @@
   },
   {
     "brand_name": "Bilexa",
-    "power": "25 mcg+100 mcg",
-    "generic_names": [
-      "Vilanterol Trifenatate",
-      "Fluticasone Furoate"
-    ],
-    "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Dry Powder Inhalation Capsule (DPI)"
-  },
-  {
-    "brand_name": "Bilexa",
     "power": "25 mcg+200 mcg",
     "generic_names": [
       "Vilanterol Trifenatate",
@@ -26961,13 +26987,14 @@
     "dosage_form": "Dry Powder Inhalation Capsule (DPI)"
   },
   {
-    "brand_name": "Bilfast",
-    "power": "12.5 mg/5 ml",
+    "brand_name": "Bilexa",
+    "power": "25 mcg+100 mcg",
     "generic_names": [
-      "Bilastine"
+      "Vilanterol Trifenatate",
+      "Fluticasone Furoate"
     ],
-    "manufacturer": "NIPRO JMI Pharma Ltd.",
-    "dosage_form": "Oral Solution"
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosage_form": "Dry Powder Inhalation Capsule (DPI)"
   },
   {
     "brand_name": "Bilfast",
@@ -26977,6 +27004,15 @@
     ],
     "manufacturer": "NIPRO JMI Pharma Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Bilfast",
+    "power": "12.5 mg/5 ml",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "Bilfast Kids",
@@ -27043,21 +27079,21 @@
   },
   {
     "brand_name": "Billi",
-    "power": "20 mg",
-    "generic_names": [
-      "Bilastine"
-    ],
-    "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Billi",
     "power": "12.5 mg/5 ml",
     "generic_names": [
       "Bilastine"
     ],
     "manufacturer": "Beximco Pharmaceuticals Ltd.",
     "dosage_form": "Oral Solution"
+  },
+  {
+    "brand_name": "Billi",
+    "power": "20 mg",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Billi Meltab",
@@ -27124,21 +27160,21 @@
   },
   {
     "brand_name": "Biltin",
-    "power": "12.5 mg/5 ml",
-    "generic_names": [
-      "Bilastine"
-    ],
-    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
-    "dosage_form": "Oral Solution"
-  },
-  {
-    "brand_name": "Biltin",
     "power": "10 mg",
     "generic_names": [
       "Bilastine"
     ],
     "manufacturer": "Eskayef Pharmaceuticals Ltd.",
     "dosage_form": "Dispersible Tablet"
+  },
+  {
+    "brand_name": "Biltin",
+    "power": "12.5 mg/5 ml",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "Biltin",
@@ -27160,21 +27196,21 @@
   },
   {
     "brand_name": "Bilxen",
-    "power": "12.5 mg/5 ml",
-    "generic_names": [
-      "Bilastine"
-    ],
-    "manufacturer": "Everest Pharmaceuticals Ltd.",
-    "dosage_form": "Oral Solution"
-  },
-  {
-    "brand_name": "Bilxen",
     "power": "20 mg",
     "generic_names": [
       "Bilastine"
     ],
     "manufacturer": "Everest Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Bilxen",
+    "power": "12.5 mg/5 ml",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "Bimaprost",
@@ -28271,7 +28307,7 @@
   },
   {
     "brand_name": "Bisofar",
-    "power": "5 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Bisoprolol Fumarate"
     ],
@@ -28280,7 +28316,7 @@
   },
   {
     "brand_name": "Bisofar",
-    "power": "2.5 mg",
+    "power": "5 mg",
     "generic_names": [
       "Bisoprolol Fumarate"
     ],
@@ -28354,7 +28390,7 @@
   },
   {
     "brand_name": "Bisopol",
-    "power": "5 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Bisoprolol Fumarate"
     ],
@@ -28363,7 +28399,7 @@
   },
   {
     "brand_name": "Bisopol",
-    "power": "2.5 mg",
+    "power": "5 mg",
     "generic_names": [
       "Bisoprolol Fumarate"
     ],
@@ -28523,7 +28559,7 @@
   },
   {
     "brand_name": "Bisorif",
-    "power": "5 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Bisoprolol Fumarate"
     ],
@@ -28532,7 +28568,7 @@
   },
   {
     "brand_name": "Bisorif",
-    "power": "2.5 mg",
+    "power": "5 mg",
     "generic_names": [
       "Bisoprolol Fumarate"
     ],
@@ -28701,7 +28737,7 @@
   },
   {
     "brand_name": "Bizoran",
-    "power": "10 mg+40 mg",
+    "power": "10 mg+20 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Olmesartan Medoxomil"
@@ -28711,13 +28747,22 @@
   },
   {
     "brand_name": "Bizoran",
-    "power": "10 mg+20 mg",
+    "power": "10 mg+40 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Olmesartan Medoxomil"
     ],
     "manufacturer": "Beximco Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Blast",
+    "power": "12.5 mg/5 ml",
+    "generic_names": [
+      "Bilastine"
+    ],
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "Blast",
@@ -28738,13 +28783,13 @@
     "dosage_form": "Tablet"
   },
   {
-    "brand_name": "Blast",
-    "power": "12.5 mg/5 ml",
+    "brand_name": "BlasTine",
+    "power": "20 mg",
     "generic_names": [
       "Bilastine"
     ],
-    "manufacturer": "General Pharmaceuticals Ltd.",
-    "dosage_form": "Oral Solution"
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Bleonix",
@@ -28793,16 +28838,6 @@
   },
   {
     "brand_name": "Blocid",
-    "power": "500 mg+100 mg",
-    "generic_names": [
-      "Sodium Alginate",
-      "Potassium Bicarbonate"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Chewable Tablet"
-  },
-  {
-    "brand_name": "Blocid",
     "power": "(500 mg+100 mg)/5 ml",
     "generic_names": [
       "Sodium Alginate",
@@ -28810,6 +28845,16 @@
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
     "dosage_form": "Oral Suspension"
+  },
+  {
+    "brand_name": "Blocid",
+    "power": "500 mg+100 mg",
+    "generic_names": [
+      "Sodium Alginate",
+      "Potassium Bicarbonate"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Chewable Tablet"
   },
   {
     "brand_name": "Block-T",
@@ -29237,7 +29282,7 @@
     "dosage_form": "IV/SC Injection"
   },
   {
-    "brand_name": "Bortezomib Ever Pharma",
+    "brand_name": "Bortezomib",
     "power": "3.5 mg/vial",
     "generic_names": [
       "Bortezomib"
@@ -29544,7 +29589,7 @@
   },
   {
     "brand_name": "Breasy",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Montelukast Sodium"
     ],
@@ -29553,7 +29598,7 @@
   },
   {
     "brand_name": "Breasy",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Montelukast Sodium"
     ],
@@ -29607,7 +29652,7 @@
   },
   {
     "brand_name": "Breon",
-    "power": "25 mcg+200 mcg",
+    "power": "25 mcg+100 mcg",
     "generic_names": [
       "Vilanterol Trifenatate",
       "Fluticasone Furoate"
@@ -29617,7 +29662,7 @@
   },
   {
     "brand_name": "Breon",
-    "power": "25 mcg+100 mcg",
+    "power": "25 mcg+200 mcg",
     "generic_names": [
       "Vilanterol Trifenatate",
       "Fluticasone Furoate"
@@ -29930,7 +29975,7 @@
   },
   {
     "brand_name": "Brirel",
-    "power": "90 mg",
+    "power": "60 mg",
     "generic_names": [
       "Ticagrelor"
     ],
@@ -29939,7 +29984,7 @@
   },
   {
     "brand_name": "Brirel",
-    "power": "60 mg",
+    "power": "90 mg",
     "generic_names": [
       "Ticagrelor"
     ],
@@ -30033,21 +30078,21 @@
   },
   {
     "brand_name": "Brocast",
-    "power": "5 mg",
-    "generic_names": [
-      "Montelukast Sodium"
-    ],
-    "manufacturer": "Concord Pharmaceuticals Ltd.",
-    "dosage_form": "Chewable Tablet"
-  },
-  {
-    "brand_name": "Brocast",
     "power": "10 mg",
     "generic_names": [
       "Montelukast Sodium"
     ],
     "manufacturer": "Concord Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Brocast",
+    "power": "5 mg",
+    "generic_names": [
+      "Montelukast Sodium"
+    ],
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosage_form": "Chewable Tablet"
   },
   {
     "brand_name": "Brocef",
@@ -30838,15 +30883,6 @@
   },
   {
     "brand_name": "Budetide",
-    "power": "1 mg/2 ml",
-    "generic_names": [
-      "Budesonide (Nebuliser Suspension)"
-    ],
-    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
-    "dosage_form": "Nebuliser Suspension"
-  },
-  {
-    "brand_name": "Budetide",
     "power": "0.5 mg/2 ml",
     "generic_names": [
       "Budesonide (Nebuliser Suspension)"
@@ -30855,8 +30891,17 @@
     "dosage_form": "Nebuliser Suspension"
   },
   {
+    "brand_name": "Budetide",
+    "power": "1 mg/2 ml",
+    "generic_names": [
+      "Budesonide (Nebuliser Suspension)"
+    ],
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosage_form": "Nebuliser Suspension"
+  },
+  {
     "brand_name": "Budetrol",
-    "power": "200 mcg+6 mcg",
+    "power": "100 mcg+6 mcg",
     "generic_names": [
       "Budesonide",
       "Formoterol Fumarate"
@@ -30876,7 +30921,7 @@
   },
   {
     "brand_name": "Budetrol",
-    "power": "100 mcg+6 mcg",
+    "power": "200 mcg+6 mcg",
     "generic_names": [
       "Budesonide",
       "Formoterol Fumarate"
@@ -31010,6 +31055,15 @@
   },
   {
     "brand_name": "Buflex",
+    "power": "1000 mg",
+    "generic_names": [
+      "Nabumetone"
+    ],
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Buflex",
     "power": "500 mg",
     "generic_names": [
       "Nabumetone"
@@ -31020,15 +31074,6 @@
   {
     "brand_name": "Buflex",
     "power": "750 mg",
-    "generic_names": [
-      "Nabumetone"
-    ],
-    "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Buflex",
-    "power": "1000 mg",
     "generic_names": [
       "Nabumetone"
     ],
@@ -31176,6 +31221,15 @@
     "dosage_form": "Intraspinal Injection"
   },
   {
+    "brand_name": "Bupinex XR",
+    "power": "150 mg",
+    "generic_names": [
+      "Bupropion Hydrochloride"
+    ],
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet (Extended Release)"
+  },
+  {
     "brand_name": "Bupro-D",
     "power": "45 mg+105 mg",
     "generic_names": [
@@ -31205,21 +31259,21 @@
   },
   {
     "brand_name": "Buratuss",
-    "power": "5 mg/ml",
-    "generic_names": [
-      "Butamirate Citrate"
-    ],
-    "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Pediatric Drops"
-  },
-  {
-    "brand_name": "Buratuss",
     "power": "7.5 mg/5 ml",
     "generic_names": [
       "Butamirate Citrate"
     ],
     "manufacturer": "Beximco Pharmaceuticals Ltd.",
     "dosage_form": "Syrup"
+  },
+  {
+    "brand_name": "Buratuss",
+    "power": "5 mg/ml",
+    "generic_names": [
+      "Butamirate Citrate"
+    ],
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosage_form": "Pediatric Drops"
   },
   {
     "brand_name": "Buratuss SR",
@@ -31493,21 +31547,21 @@
   },
   {
     "brand_name": "Buterol",
-    "power": "10 mg",
-    "generic_names": [
-      "Bambuterol Hydrochloride"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Buterol",
     "power": "5 mg/5 ml",
     "generic_names": [
       "Bambuterol Hydrochloride"
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
     "dosage_form": "Oral Solution"
+  },
+  {
+    "brand_name": "Buterol",
+    "power": "10 mg",
+    "generic_names": [
+      "Bambuterol Hydrochloride"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Butibac",
@@ -31613,7 +31667,7 @@
   },
   {
     "brand_name": "Bygerd",
-    "power": "10 mg",
+    "power": "20 mg",
     "generic_names": [
       "Vonoprazan"
     ],
@@ -31622,7 +31676,7 @@
   },
   {
     "brand_name": "Bygerd",
-    "power": "20 mg",
+    "power": "10 mg",
     "generic_names": [
       "Vonoprazan"
     ],
@@ -31950,21 +32004,21 @@
   },
   {
     "brand_name": "Cabretol",
-    "power": "200 mg",
-    "generic_names": [
-      "Carbamazepine"
-    ],
-    "manufacturer": "Renata PLC",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Cabretol",
     "power": "100 mg/5 ml",
     "generic_names": [
       "Carbamazepine"
     ],
     "manufacturer": "Renata PLC",
     "dosage_form": "Oral Suspension"
+  },
+  {
+    "brand_name": "Cabretol",
+    "power": "200 mg",
+    "generic_names": [
+      "Carbamazepine"
+    ],
+    "manufacturer": "Renata PLC",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Cadiar D",
@@ -33188,26 +33242,6 @@
   },
   {
     "brand_name": "Calnor",
-    "power": "10 mg+40 mg",
-    "generic_names": [
-      "Amlodipine Besilate",
-      "Olmesartan Medoxomil"
-    ],
-    "manufacturer": "Opsonin Pharma Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Calnor",
-    "power": "10 mg+20 mg",
-    "generic_names": [
-      "Amlodipine Besilate",
-      "Olmesartan Medoxomil"
-    ],
-    "manufacturer": "Opsonin Pharma Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Calnor",
     "power": "5 mg+20 mg",
     "generic_names": [
       "Amlodipine Besilate",
@@ -33219,6 +33253,26 @@
   {
     "brand_name": "Calnor",
     "power": "5 mg+40 mg",
+    "generic_names": [
+      "Amlodipine Besilate",
+      "Olmesartan Medoxomil"
+    ],
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Calnor",
+    "power": "10 mg+40 mg",
+    "generic_names": [
+      "Amlodipine Besilate",
+      "Olmesartan Medoxomil"
+    ],
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Calnor",
+    "power": "10 mg+20 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Olmesartan Medoxomil"
@@ -33670,17 +33724,7 @@
   },
   {
     "brand_name": "Camlopril",
-    "power": "10 mg+20 mg",
-    "generic_names": [
-      "Amlodipine Besilate",
-      "Benazepril Hydrochloride"
-    ],
-    "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Camlopril",
-    "power": "5 mg+20 mg",
+    "power": "2.5 mg+10 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Benazepril Hydrochloride"
@@ -33700,13 +33744,32 @@
   },
   {
     "brand_name": "Camlopril",
-    "power": "2.5 mg+10 mg",
+    "power": "5 mg+20 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Benazepril Hydrochloride"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
     "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "Camlopril",
+    "power": "10 mg+20 mg",
+    "generic_names": [
+      "Amlodipine Besilate",
+      "Benazepril Hydrochloride"
+    ],
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "Camlor",
+    "power": "8 mg",
+    "generic_names": [
+      "Lornoxicam"
+    ],
+    "manufacturer": "Popular Pharmaceuticals PLC",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Camlor",
@@ -33720,15 +33783,6 @@
   {
     "brand_name": "Camlor",
     "power": "4 mg",
-    "generic_names": [
-      "Lornoxicam"
-    ],
-    "manufacturer": "Popular Pharmaceuticals PLC",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Camlor",
-    "power": "8 mg",
     "generic_names": [
       "Lornoxicam"
     ],
@@ -33777,7 +33831,7 @@
   },
   {
     "brand_name": "Camzoy",
-    "power": "2.5 mg",
+    "power": "5 mg",
     "generic_names": [
       "Mavacamten"
     ],
@@ -33786,7 +33840,7 @@
   },
   {
     "brand_name": "Camzoy",
-    "power": "5 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Mavacamten"
     ],
@@ -33804,7 +33858,7 @@
   },
   {
     "brand_name": "Canalia",
-    "power": "30 mg",
+    "power": "60 mg",
     "generic_names": [
       "Dexlansoprazole"
     ],
@@ -33813,7 +33867,7 @@
   },
   {
     "brand_name": "Canalia",
-    "power": "60 mg",
+    "power": "30 mg",
     "generic_names": [
       "Dexlansoprazole"
     ],
@@ -33906,7 +33960,7 @@
   },
   {
     "brand_name": "Candicon",
-    "power": "100 mg",
+    "power": "50 mg",
     "generic_names": [
       "Voriconazole"
     ],
@@ -33924,7 +33978,7 @@
   },
   {
     "brand_name": "Candicon",
-    "power": "50 mg",
+    "power": "100 mg",
     "generic_names": [
       "Voriconazole"
     ],
@@ -34218,7 +34272,7 @@
   },
   {
     "brand_name": "Capazi",
-    "power": "2.5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Vericiguat"
     ],
@@ -34236,7 +34290,7 @@
   },
   {
     "brand_name": "Capazi",
-    "power": "10 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Vericiguat"
     ],
@@ -34245,7 +34299,7 @@
   },
   {
     "brand_name": "Capcitab",
-    "power": "500 mg",
+    "power": "150 mg",
     "generic_names": [
       "Capecitabine"
     ],
@@ -34254,7 +34308,7 @@
   },
   {
     "brand_name": "Capcitab",
-    "power": "150 mg",
+    "power": "500 mg",
     "generic_names": [
       "Capecitabine"
     ],
@@ -34291,7 +34345,7 @@
   },
   {
     "brand_name": "Capitis",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Flunarizine"
     ],
@@ -34300,7 +34354,7 @@
   },
   {
     "brand_name": "Capitis",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Flunarizine"
     ],
@@ -34822,7 +34876,7 @@
   },
   {
     "brand_name": "Cardicil",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -34831,7 +34885,7 @@
   },
   {
     "brand_name": "Cardicil",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -34887,7 +34941,7 @@
   },
   {
     "brand_name": "Cardifort Plus",
-    "power": "5 mg+50 mg",
+    "power": "5 mg+25 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Atenolol"
@@ -34897,7 +34951,7 @@
   },
   {
     "brand_name": "Cardifort Plus",
-    "power": "5 mg+25 mg",
+    "power": "5 mg+50 mg",
     "generic_names": [
       "Amlodipine Besilate",
       "Atenolol"
@@ -35517,7 +35571,7 @@
   },
   {
     "brand_name": "Carfilez",
-    "power": "10 mg/vial",
+    "power": "30 mg/vial",
     "generic_names": [
       "Carfilzomib"
     ],
@@ -35526,7 +35580,7 @@
   },
   {
     "brand_name": "Carfilez",
-    "power": "30 mg/vial",
+    "power": "10 mg/vial",
     "generic_names": [
       "Carfilzomib"
     ],
@@ -35598,7 +35652,7 @@
   },
   {
     "brand_name": "Carlev",
-    "power": "100 mg+10 mg",
+    "power": "250 mg+25 mg",
     "generic_names": [
       "Levodopa",
       "Carbidopa"
@@ -35608,7 +35662,7 @@
   },
   {
     "brand_name": "Carlev",
-    "power": "250 mg+25 mg",
+    "power": "100 mg+10 mg",
     "generic_names": [
       "Levodopa",
       "Carbidopa"
@@ -35685,21 +35739,21 @@
   },
   {
     "brand_name": "Carmapine",
-    "power": "100 mg/5 ml",
-    "generic_names": [
-      "Carbamazepine"
-    ],
-    "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "Oral Suspension"
-  },
-  {
-    "brand_name": "Carmapine",
     "power": "200 mg",
     "generic_names": [
       "Carbamazepine"
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Carmapine",
+    "power": "100 mg/5 ml",
+    "generic_names": [
+      "Carbamazepine"
+    ],
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosage_form": "Oral Suspension"
   },
   {
     "brand_name": "Carmapine CR",
@@ -35814,7 +35868,7 @@
   },
   {
     "brand_name": "Carnovas",
-    "power": "10 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Nebivolol Hydrochloride"
     ],
@@ -35832,7 +35886,7 @@
   },
   {
     "brand_name": "Carnovas",
-    "power": "2.5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Nebivolol Hydrochloride"
     ],
@@ -36048,21 +36102,21 @@
   },
   {
     "brand_name": "Cartine",
-    "power": "500 mg/5 ml",
-    "generic_names": [
-      "Levocarnitine"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Oral Solution"
-  },
-  {
-    "brand_name": "Cartine",
     "power": "330 mg",
     "generic_names": [
       "Levocarnitine"
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Cartine",
+    "power": "500 mg/5 ml",
+    "generic_names": [
+      "Levocarnitine"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "Cartiplus",
@@ -36212,7 +36266,7 @@
   },
   {
     "brand_name": "Caspa",
-    "power": "50 mg",
+    "power": "200 mg",
     "generic_names": [
       "Voriconazole"
     ],
@@ -36221,7 +36275,7 @@
   },
   {
     "brand_name": "Caspa",
-    "power": "200 mg",
+    "power": "50 mg",
     "generic_names": [
       "Voriconazole"
     ],
@@ -36248,21 +36302,21 @@
   },
   {
     "brand_name": "Castin",
-    "power": "125 mg/5 ml",
-    "generic_names": [
-      "Carbocisteine"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Syrup"
-  },
-  {
-    "brand_name": "Castin",
     "power": "375 mg",
     "generic_names": [
       "Carbocisteine"
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
     "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "Castin",
+    "power": "125 mg/5 ml",
+    "generic_names": [
+      "Carbocisteine"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Syrup"
   },
   {
     "brand_name": "Castin DS",
@@ -36355,7 +36409,7 @@
   },
   {
     "brand_name": "Catium Trio",
-    "power": "150 mcg+50 mcg+160 mcg",
+    "power": "150 mcg+50 mcg+80 mcg",
     "generic_names": [
       "Indacaterol",
       "Glycopyrronium",
@@ -36366,7 +36420,7 @@
   },
   {
     "brand_name": "Catium Trio",
-    "power": "150 mcg+50 mcg+80 mcg",
+    "power": "150 mcg+50 mcg+160 mcg",
     "generic_names": [
       "Indacaterol",
       "Glycopyrronium",
@@ -36598,21 +36652,21 @@
   },
   {
     "brand_name": "Cazep",
-    "power": "100 mg/5 ml",
-    "generic_names": [
-      "Carbamazepine"
-    ],
-    "manufacturer": "Opsonin Pharma Ltd.",
-    "dosage_form": "Oral Suspension"
-  },
-  {
-    "brand_name": "Cazep",
     "power": "200 mg",
     "generic_names": [
       "Carbamazepine"
     ],
     "manufacturer": "Opsonin Pharma Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Cazep",
+    "power": "100 mg/5 ml",
+    "generic_names": [
+      "Carbamazepine"
+    ],
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosage_form": "Oral Suspension"
   },
   {
     "brand_name": "Cazep CR",
@@ -36840,21 +36894,21 @@
   },
   {
     "brand_name": "Cedril",
-    "power": "500 mg",
-    "generic_names": [
-      "Cefadroxil Monohydrate"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Cedril",
     "power": "125 mg/5 ml",
     "generic_names": [
       "Cefadroxil Monohydrate"
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Cedril",
+    "power": "500 mg",
+    "generic_names": [
+      "Cefadroxil Monohydrate"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "CEE",
@@ -37087,12 +37141,12 @@
   },
   {
     "brand_name": "Cefador",
-    "power": "500 mg",
+    "power": "125 mg/1.25 ml",
     "generic_names": [
       "Cefadroxil Monohydrate"
     ],
     "manufacturer": "Somatec Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "Pediatric Drops"
   },
   {
     "brand_name": "Cefador",
@@ -37105,12 +37159,12 @@
   },
   {
     "brand_name": "Cefador",
-    "power": "125 mg/1.25 ml",
+    "power": "500 mg",
     "generic_names": [
       "Cefadroxil Monohydrate"
     ],
     "manufacturer": "Somatec Pharmaceuticals Ltd.",
-    "dosage_form": "Pediatric Drops"
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Cefadyl",
@@ -37150,7 +37204,7 @@
   },
   {
     "brand_name": "Cefaking",
-    "power": "500 mg/vial",
+    "power": "1 gm/vial",
     "generic_names": [
       "Cefoperazone Sodium"
     ],
@@ -37168,7 +37222,7 @@
   },
   {
     "brand_name": "Cefaking",
-    "power": "1 gm/vial",
+    "power": "500 mg/vial",
     "generic_names": [
       "Cefoperazone Sodium"
     ],
@@ -37204,15 +37258,6 @@
   },
   {
     "brand_name": "Cefamax",
-    "power": "200 mg",
-    "generic_names": [
-      "Ceftibuten Dihydrate"
-    ],
-    "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Cefamax",
     "power": "400 mg",
     "generic_names": [
       "Ceftibuten Dihydrate"
@@ -37228,6 +37273,15 @@
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Cefamax",
+    "power": "200 mg",
+    "generic_names": [
+      "Ceftibuten Dihydrate"
+    ],
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Cefamax DS",
@@ -37294,7 +37348,7 @@
   },
   {
     "brand_name": "Cefaz",
-    "power": "1 gm/vial",
+    "power": "2 gm/vial",
     "generic_names": [
       "Ceftriaxone Sodium"
     ],
@@ -37303,7 +37357,7 @@
   },
   {
     "brand_name": "Cefaz",
-    "power": "2 gm/vial",
+    "power": "1 gm/vial",
     "generic_names": [
       "Ceftriaxone Sodium"
     ],
@@ -37339,7 +37393,7 @@
   },
   {
     "brand_name": "Cefazol",
-    "power": "1 gm/vial",
+    "power": "500 mg/vial",
     "generic_names": [
       "Cefazolin Sodium"
     ],
@@ -37348,7 +37402,7 @@
   },
   {
     "brand_name": "Cefazol",
-    "power": "500 mg/vial",
+    "power": "1 gm/vial",
     "generic_names": [
       "Cefazolin Sodium"
     ],
@@ -37366,15 +37420,6 @@
   },
   {
     "brand_name": "Cefazone",
-    "power": "2 gm/vial",
-    "generic_names": [
-      "Cefoperazone Sodium"
-    ],
-    "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "IM/IV Injection"
-  },
-  {
-    "brand_name": "Cefazone",
     "power": "1 gm/vial",
     "generic_names": [
       "Cefoperazone Sodium"
@@ -37383,13 +37428,22 @@
     "dosage_form": "IM/IV Injection"
   },
   {
+    "brand_name": "Cefazone",
+    "power": "2 gm/vial",
+    "generic_names": [
+      "Cefoperazone Sodium"
+    ],
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosage_form": "IM/IV Injection"
+  },
+  {
     "brand_name": "Cefcare",
-    "power": "125 mg/5 ml",
+    "power": "500 mg",
     "generic_names": [
       "Cefadroxil Monohydrate"
     ],
     "manufacturer": "Navana Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Cefcare",
@@ -37402,16 +37456,16 @@
   },
   {
     "brand_name": "Cefcare",
-    "power": "500 mg",
+    "power": "125 mg/5 ml",
     "generic_names": [
       "Cefadroxil Monohydrate"
     ],
     "manufacturer": "Navana Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Cefdiren",
-    "power": "400 mg",
+    "power": "200 mg",
     "generic_names": [
       "Cefditoren"
     ],
@@ -37420,7 +37474,7 @@
   },
   {
     "brand_name": "Cefdiren",
-    "power": "200 mg",
+    "power": "400 mg",
     "generic_names": [
       "Cefditoren"
     ],
@@ -37465,21 +37519,21 @@
   },
   {
     "brand_name": "Cefdox",
-    "power": "20 mg/ml",
-    "generic_names": [
-      "Cefpodoxime Proxetil"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Pediatric Drops"
-  },
-  {
-    "brand_name": "Cefdox",
     "power": "100 mg",
     "generic_names": [
       "Cefpodoxime Proxetil"
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
     "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "Cefdox",
+    "power": "20 mg/ml",
+    "generic_names": [
+      "Cefpodoxime Proxetil"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Pediatric Drops"
   },
   {
     "brand_name": "Cefdox DS",
@@ -37573,21 +37627,21 @@
   },
   {
     "brand_name": "Cefida",
-    "power": "300 mg",
-    "generic_names": [
-      "Cefdinir"
-    ],
-    "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Cefida",
     "power": "125 mg/5 ml",
     "generic_names": [
       "Cefdinir"
     ],
     "manufacturer": "Beximco Pharmaceuticals Ltd.",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Cefida",
+    "power": "300 mg",
+    "generic_names": [
+      "Cefdinir"
+    ],
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Cefiget",
@@ -37789,6 +37843,15 @@
   },
   {
     "brand_name": "Cefivic",
+    "power": "100 mg/5 ml",
+    "generic_names": [
+      "Cefixime Trihydrate"
+    ],
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Cefivic",
     "power": "400 mg",
     "generic_names": [
       "Cefixime Trihydrate"
@@ -37804,15 +37867,6 @@
     ],
     "manufacturer": "Goodman Pharmaceuticals Ltd.",
     "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Cefivic",
-    "power": "100 mg/5 ml",
-    "generic_names": [
-      "Cefixime Trihydrate"
-    ],
-    "manufacturer": "Goodman Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Cefivic DS",
@@ -38050,7 +38104,7 @@
   },
   {
     "brand_name": "Ceflon",
-    "power": "500 mg",
+    "power": "250 mg",
     "generic_names": [
       "Cefaclor Monohydrate"
     ],
@@ -38059,7 +38113,7 @@
   },
   {
     "brand_name": "Ceflon",
-    "power": "250 mg",
+    "power": "500 mg",
     "generic_names": [
       "Cefaclor Monohydrate"
     ],
@@ -38293,7 +38347,7 @@
   },
   {
     "brand_name": "Cefopar",
-    "power": "2 gm/vial",
+    "power": "1 gm/vial",
     "generic_names": [
       "Cefoperazone Sodium"
     ],
@@ -38302,7 +38356,7 @@
   },
   {
     "brand_name": "Cefopar",
-    "power": "1 gm/vial",
+    "power": "2 gm/vial",
     "generic_names": [
       "Cefoperazone Sodium"
     ],
@@ -39193,6 +39247,24 @@
       "Ceftriaxone Sodium"
     ],
     "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosage_form": "IM Injection"
+  },
+  {
+    "brand_name": "Ceftrimax",
+    "power": "1 gm/vial",
+    "generic_names": [
+      "Ceftriaxone Sodium"
+    ],
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosage_form": "IM Injection"
+  },
+  {
+    "brand_name": "Ceftrimax",
+    "power": "1 gm/vial",
+    "generic_names": [
+      "Ceftriaxone Sodium"
+    ],
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
     "dosage_form": "IV Injection"
   },
   {
@@ -39206,30 +39278,12 @@
   },
   {
     "brand_name": "Ceftrimax",
-    "power": "1 gm/vial",
-    "generic_names": [
-      "Ceftriaxone Sodium"
-    ],
-    "manufacturer": "Veritas Pharmaceuticals Ltd.",
-    "dosage_form": "IV Injection"
-  },
-  {
-    "brand_name": "Ceftrimax",
-    "power": "1 gm/vial",
-    "generic_names": [
-      "Ceftriaxone Sodium"
-    ],
-    "manufacturer": "Veritas Pharmaceuticals Ltd.",
-    "dosage_form": "IM Injection"
-  },
-  {
-    "brand_name": "Ceftrimax",
     "power": "500 mg/vial",
     "generic_names": [
       "Ceftriaxone Sodium"
     ],
     "manufacturer": "Veritas Pharmaceuticals Ltd.",
-    "dosage_form": "IM Injection"
+    "dosage_form": "IV Injection"
   },
   {
     "brand_name": "Ceftrix",
@@ -39251,30 +39305,39 @@
   },
   {
     "brand_name": "Ceftrix",
-    "power": "1 gm/vial",
+    "power": "500 mg/vial",
     "generic_names": [
       "Ceftriaxone Sodium"
     ],
     "manufacturer": "Novo Healthcare and Pharma Ltd.",
-    "dosage_form": "IV Injection"
+    "dosage_form": "IM Injection"
   },
   {
     "brand_name": "Ceftrix",
-    "power": "2 gm/vial",
-    "generic_names": [
-      "Ceftriaxone Sodium"
-    ],
-    "manufacturer": "Novo Healthcare and Pharma Ltd.",
-    "dosage_form": "IV Injection"
-  },
-  {
-    "brand_name": "Ceftron",
     "power": "250 mg/vial",
     "generic_names": [
       "Ceftriaxone Sodium"
     ],
-    "manufacturer": "Square Pharmaceuticals PLC",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
     "dosage_form": "IM Injection"
+  },
+  {
+    "brand_name": "Ceftron",
+    "power": "2 gm/vial",
+    "generic_names": [
+      "Ceftriaxone Sodium"
+    ],
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosage_form": "IV Injection"
+  },
+  {
+    "brand_name": "Ceftron",
+    "power": "1 gm/vial",
+    "generic_names": [
+      "Ceftriaxone Sodium"
+    ],
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosage_form": "IV Injection"
   },
   {
     "brand_name": "Ceftron",
@@ -39283,16 +39346,7 @@
       "Ceftriaxone Sodium"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "IM Injection"
-  },
-  {
-    "brand_name": "Ceftron",
-    "power": "1 gm/vial",
-    "generic_names": [
-      "Ceftriaxone Sodium"
-    ],
-    "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "IM Injection"
+    "dosage_form": "IV Injection"
   },
   {
     "brand_name": "Ceftron",
@@ -39491,16 +39545,6 @@
   },
   {
     "brand_name": "Cefurino Plus",
-    "power": "(125 mg+31.25 mg)/5 ml",
-    "generic_names": [
-      "Cefuroxime Axetil",
-      "Clavulanic Acid"
-    ],
-    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
-  },
-  {
-    "brand_name": "Cefurino Plus",
     "power": "500 mg+125 mg",
     "generic_names": [
       "Cefuroxime Axetil",
@@ -39508,6 +39552,16 @@
     ],
     "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Cefurino Plus",
+    "power": "(125 mg+31.25 mg)/5 ml",
+    "generic_names": [
+      "Cefuroxime Axetil",
+      "Clavulanic Acid"
+    ],
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Cefuroxime Plus",
@@ -39521,15 +39575,6 @@
   },
   {
     "brand_name": "Cefusil",
-    "power": "500 mg",
-    "generic_names": [
-      "Cefuroxime Axetil"
-    ],
-    "manufacturer": "Silco Pharmaceutical Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Cefusil",
     "power": "250 mg",
     "generic_names": [
       "Cefuroxime Axetil"
@@ -39538,11 +39583,10 @@
     "dosage_form": "Tablet"
   },
   {
-    "brand_name": "Cefusil CV",
-    "power": "500 mg+125 mg",
+    "brand_name": "Cefusil",
+    "power": "500 mg",
     "generic_names": [
-      "Cefuroxime Axetil",
-      "Clavulanic Acid"
+      "Cefuroxime Axetil"
     ],
     "manufacturer": "Silco Pharmaceutical Ltd.",
     "dosage_form": "Tablet"
@@ -39558,8 +39602,18 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Cefusil CV",
+    "power": "500 mg+125 mg",
+    "generic_names": [
+      "Cefuroxime Axetil",
+      "Clavulanic Acid"
+    ],
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Cefuson",
-    "power": "500 mg",
+    "power": "250 mg",
     "generic_names": [
       "Cefuroxime Axetil"
     ],
@@ -39568,7 +39622,7 @@
   },
   {
     "brand_name": "Cefuson",
-    "power": "250 mg",
+    "power": "500 mg",
     "generic_names": [
       "Cefuroxime Axetil"
     ],
@@ -39700,15 +39754,6 @@
   },
   {
     "brand_name": "Celeste",
-    "power": "10 mg",
-    "generic_names": [
-      "Tadalafil"
-    ],
-    "manufacturer": "General Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Celeste",
     "power": "20 mg",
     "generic_names": [
       "Tadalafil"
@@ -39717,8 +39762,17 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Celeste",
+    "power": "10 mg",
+    "generic_names": [
+      "Tadalafil"
+    ],
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Celipress",
-    "power": "400 mg",
+    "power": "200 mg",
     "generic_names": [
       "Celiprolol Hydrochloride"
     ],
@@ -39727,7 +39781,7 @@
   },
   {
     "brand_name": "Celipress",
-    "power": "200 mg",
+    "power": "400 mg",
     "generic_names": [
       "Celiprolol Hydrochloride"
     ],
@@ -40009,7 +40063,7 @@
   },
   {
     "brand_name": "Centradol",
-    "power": "100 mg",
+    "power": "50 mg",
     "generic_names": [
       "Tapentadol Hydrochloride"
     ],
@@ -40018,7 +40072,7 @@
   },
   {
     "brand_name": "Centradol",
-    "power": "50 mg",
+    "power": "100 mg",
     "generic_names": [
       "Tapentadol Hydrochloride"
     ],
@@ -40121,12 +40175,12 @@
   },
   {
     "brand_name": "Cephalen",
-    "power": "500 mg",
+    "power": "125 mg/5 ml",
     "generic_names": [
       "Cephalexin"
     ],
     "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Cephalen",
@@ -40139,12 +40193,12 @@
   },
   {
     "brand_name": "Cephalen",
-    "power": "125 mg/5 ml",
+    "power": "500 mg",
     "generic_names": [
       "Cephalexin"
     ],
     "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Cephalor",
@@ -40555,13 +40609,13 @@
   },
   {
     "brand_name": "Ceroclav",
-    "power": "250 mg+62.5 mg",
+    "power": "(125 mg+31.25 mg)/5 ml",
     "generic_names": [
       "Cefuroxime Axetil",
       "Clavulanic Acid"
     ],
     "manufacturer": "Astra Biopharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Ceroclav",
@@ -40575,13 +40629,13 @@
   },
   {
     "brand_name": "Ceroclav",
-    "power": "(125 mg+31.25 mg)/5 ml",
+    "power": "250 mg+62.5 mg",
     "generic_names": [
       "Cefuroxime Axetil",
       "Clavulanic Acid"
     ],
     "manufacturer": "Astra Biopharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Cerodex",
@@ -40798,7 +40852,7 @@
   },
   {
     "brand_name": "Cesonide",
-    "power": "80 mcg/actuation",
+    "power": "160 mcg/actuation",
     "generic_names": [
       "Ciclesonide (Inhalation Aerosol)"
     ],
@@ -40807,7 +40861,7 @@
   },
   {
     "brand_name": "Cesonide",
-    "power": "160 mcg/actuation",
+    "power": "80 mcg/actuation",
     "generic_names": [
       "Ciclesonide (Inhalation Aerosol)"
     ],
@@ -40893,7 +40947,7 @@
   },
   {
     "brand_name": "Cetaxim",
-    "power": "500 mg/10 ml",
+    "power": "1 gm/10 ml",
     "generic_names": [
       "Cefotaxime"
     ],
@@ -40911,7 +40965,7 @@
   },
   {
     "brand_name": "Cetaxim",
-    "power": "1 gm/10 ml",
+    "power": "500 mg/10 ml",
     "generic_names": [
       "Cefotaxime"
     ],
@@ -41311,15 +41365,6 @@
   },
   {
     "brand_name": "Champix",
-    "power": "0.5 mg",
-    "generic_names": [
-      "Varenicline Tartrate"
-    ],
-    "manufacturer": "Janata Traders",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Champix",
     "power": "1 mg",
     "generic_names": [
       "Varenicline Tartrate"
@@ -41328,8 +41373,17 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Champix",
+    "power": "0.5 mg",
+    "generic_names": [
+      "Varenicline Tartrate"
+    ],
+    "manufacturer": "Janata Traders",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Charm",
-    "power": "50 mg",
+    "power": "100 mg",
     "generic_names": [
       "Sildenafil Citrate"
     ],
@@ -41347,7 +41401,7 @@
   },
   {
     "brand_name": "Charm",
-    "power": "100 mg",
+    "power": "50 mg",
     "generic_names": [
       "Sildenafil Citrate"
     ],
@@ -41411,7 +41465,7 @@
   },
   {
     "brand_name": "Chelova FCT",
-    "power": "360 mg",
+    "power": "180 mg",
     "generic_names": [
       "Deferasirox"
     ],
@@ -41420,7 +41474,7 @@
   },
   {
     "brand_name": "Chelova FCT",
-    "power": "180 mg",
+    "power": "360 mg",
     "generic_names": [
       "Deferasirox"
     ],
@@ -42046,7 +42100,7 @@
   },
   {
     "brand_name": "Cilma",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -42055,7 +42109,7 @@
   },
   {
     "brand_name": "Cilma",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -42091,7 +42145,7 @@
   },
   {
     "brand_name": "Cilnior",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -42100,7 +42154,7 @@
   },
   {
     "brand_name": "Cilnior",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -42226,7 +42280,7 @@
   },
   {
     "brand_name": "Cilvas",
-    "power": "10 mg",
+    "power": "5 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -42235,7 +42289,7 @@
   },
   {
     "brand_name": "Cilvas",
-    "power": "5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Cilnidipine"
     ],
@@ -42604,21 +42658,21 @@
   },
   {
     "brand_name": "Cipcin",
-    "power": "0.3%",
-    "generic_names": [
-      "Ciprofloxacin (Ophthalmic)"
-    ],
-    "manufacturer": "Biopharma Limited",
-    "dosage_form": "Ophthalmic Solution"
-  },
-  {
-    "brand_name": "Cipcin",
     "power": "200 mg/100 ml",
     "generic_names": [
       "Ciprofloxacin"
     ],
     "manufacturer": "Biopharma Limited",
     "dosage_form": "IV Infusion"
+  },
+  {
+    "brand_name": "Cipcin",
+    "power": "0.3%",
+    "generic_names": [
+      "Ciprofloxacin (Ophthalmic)"
+    ],
+    "manufacturer": "Biopharma Limited",
+    "dosage_form": "Ophthalmic Solution"
   },
   {
     "brand_name": "Cipcin-DX",
@@ -42629,15 +42683,6 @@
     ],
     "manufacturer": "Biopharma Limited",
     "dosage_form": "Ophthalmic Solution"
-  },
-  {
-    "brand_name": "Cipex",
-    "power": "750 mg",
-    "generic_names": [
-      "Ciprofloxacin"
-    ],
-    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Cipex",
@@ -42667,6 +42712,15 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Cipex",
+    "power": "750 mg",
+    "generic_names": [
+      "Ciprofloxacin"
+    ],
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Ciplon",
     "power": "200 mg/100 ml",
     "generic_names": [
@@ -42686,7 +42740,7 @@
   },
   {
     "brand_name": "Cipran",
-    "power": "40 mg",
+    "power": "80 mg",
     "generic_names": [
       "Levomilnacipran Hydrochloride"
     ],
@@ -42695,7 +42749,7 @@
   },
   {
     "brand_name": "Cipran",
-    "power": "80 mg",
+    "power": "40 mg",
     "generic_names": [
       "Levomilnacipran Hydrochloride"
     ],
@@ -42812,21 +42866,21 @@
   },
   {
     "brand_name": "Cipro-C",
-    "power": "0.3%",
-    "generic_names": [
-      "Ciprofloxacin (Ophthalmic)"
-    ],
-    "manufacturer": "Chemist Laboratories  Ltd.",
-    "dosage_form": "Ophthalmic Solution"
-  },
-  {
-    "brand_name": "Cipro-C",
     "power": "250 mg/5 ml",
     "generic_names": [
       "Ciprofloxacin"
     ],
     "manufacturer": "Chemist Laboratories  Ltd.",
     "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Cipro-C",
+    "power": "0.3%",
+    "generic_names": [
+      "Ciprofloxacin (Ophthalmic)"
+    ],
+    "manufacturer": "Chemist Laboratories  Ltd.",
+    "dosage_form": "Ophthalmic Solution"
   },
   {
     "brand_name": "Cipro-D",
@@ -43517,7 +43571,7 @@
   },
   {
     "brand_name": "Cisatracurium Hameln",
-    "power": "5 mg/2.5 ml",
+    "power": "10 mg/5 ml",
     "generic_names": [
       "Cisatracurium Besylate"
     ],
@@ -43526,7 +43580,7 @@
   },
   {
     "brand_name": "Cisatracurium Hameln",
-    "power": "10 mg/5 ml",
+    "power": "5 mg/2.5 ml",
     "generic_names": [
       "Cisatracurium Besylate"
     ],
@@ -43771,21 +43825,21 @@
   },
   {
     "brand_name": "Citinex",
-    "power": "500 mg",
-    "generic_names": [
-      "Citicoline Sodium"
-    ],
-    "manufacturer": "The IBN SINA Pharmaceutical PLC",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Citinex",
     "power": "500 mg/4 ml",
     "generic_names": [
       "Citicoline Sodium"
     ],
     "manufacturer": "The IBN SINA Pharmaceutical PLC",
     "dosage_form": "IM/IV Injection"
+  },
+  {
+    "brand_name": "Citinex",
+    "power": "500 mg",
+    "generic_names": [
+      "Citicoline Sodium"
+    ],
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Citivas",
@@ -43960,7 +44014,7 @@
   },
   {
     "brand_name": "Ckemia",
-    "power": "2 mg",
+    "power": "4 mg",
     "generic_names": [
       "Daprodustat"
     ],
@@ -43969,7 +44023,7 @@
   },
   {
     "brand_name": "Ckemia",
-    "power": "4 mg",
+    "power": "2 mg",
     "generic_names": [
       "Daprodustat"
     ],
@@ -44239,6 +44293,15 @@
   },
   {
     "brand_name": "Clarimax",
+    "power": "125 mg/5 ml",
+    "generic_names": [
+      "Clarithromycin"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Powder for Suspension"
+  },
+  {
+    "brand_name": "Clarimax",
     "power": "250 mg",
     "generic_names": [
       "Clarithromycin"
@@ -44254,15 +44317,6 @@
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
     "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Clarimax",
-    "power": "125 mg/5 ml",
-    "generic_names": [
-      "Clarithromycin"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Clarimycin",
@@ -44334,7 +44388,7 @@
       "Clotrimazole (Topical)"
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "Cream"
+    "dosage_form": "Topical Solution"
   },
   {
     "brand_name": "Clarizol",
@@ -44343,7 +44397,7 @@
       "Clotrimazole (Topical)"
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "Topical Solution"
+    "dosage_form": "Cream"
   },
   {
     "brand_name": "Clarizol",
@@ -44452,7 +44506,7 @@
   },
   {
     "brand_name": "Clavoxil",
-    "power": "500 mg+125 mg",
+    "power": "250 mg+125 mg",
     "generic_names": [
       "Amoxicillin",
       "Clavulanic Acid"
@@ -44462,7 +44516,7 @@
   },
   {
     "brand_name": "Clavoxil",
-    "power": "250 mg+125 mg",
+    "power": "500 mg+125 mg",
     "generic_names": [
       "Amoxicillin",
       "Clavulanic Acid"
@@ -44482,7 +44536,7 @@
   },
   {
     "brand_name": "Clavucure",
-    "power": "500 mg+125 mg",
+    "power": "250 mg+62.5 mg",
     "generic_names": [
       "Cefuroxime Axetil",
       "Clavulanic Acid"
@@ -44492,7 +44546,7 @@
   },
   {
     "brand_name": "Clavucure",
-    "power": "250 mg+62.5 mg",
+    "power": "500 mg+125 mg",
     "generic_names": [
       "Cefuroxime Axetil",
       "Clavulanic Acid"
@@ -44632,7 +44686,7 @@
   },
   {
     "brand_name": "Clavuxim",
-    "power": "500 mg+125 mg",
+    "power": "250 mg+62.5 mg",
     "generic_names": [
       "Cefuroxime Axetil",
       "Clavulanic Acid"
@@ -44642,7 +44696,7 @@
   },
   {
     "brand_name": "Clavuxim",
-    "power": "250 mg+62.5 mg",
+    "power": "500 mg+125 mg",
     "generic_names": [
       "Cefuroxime Axetil",
       "Clavulanic Acid"
@@ -45467,21 +45521,21 @@
   },
   {
     "brand_name": "Clix",
-    "power": "125 mg/5 ml",
-    "generic_names": [
-      "Clarithromycin"
-    ],
-    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
-    "dosage_form": "Powder for Suspension"
-  },
-  {
-    "brand_name": "Clix",
     "power": "500 mg",
     "generic_names": [
       "Clarithromycin"
     ],
     "manufacturer": "Eskayef Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Clix",
+    "power": "125 mg/5 ml",
+    "generic_names": [
+      "Clarithromycin"
+    ],
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosage_form": "Powder for Suspension"
   },
   {
     "brand_name": "Clizin",
@@ -45526,7 +45580,7 @@
       "Clobetasone Butyrate"
     ],
     "manufacturer": "Opsonin Pharma Ltd.",
-    "dosage_form": "Ointment"
+    "dosage_form": "Cream"
   },
   {
     "brand_name": "Clobecort",
@@ -45535,7 +45589,7 @@
       "Clobetasone Butyrate"
     ],
     "manufacturer": "Opsonin Pharma Ltd.",
-    "dosage_form": "Cream"
+    "dosage_form": "Ointment"
   },
   {
     "brand_name": "Clobederm",
@@ -46559,7 +46613,7 @@
   },
   {
     "brand_name": "Clortha",
-    "power": "25 mg",
+    "power": "15 mg",
     "generic_names": [
       "Chlorthalidone"
     ],
@@ -46568,7 +46622,7 @@
   },
   {
     "brand_name": "Clortha",
-    "power": "15 mg",
+    "power": "25 mg",
     "generic_names": [
       "Chlorthalidone"
     ],
@@ -46818,12 +46872,12 @@
   },
   {
     "brand_name": "Clovir",
-    "power": "250 mg/vial",
+    "power": "5% w/w",
     "generic_names": [
-      "Acyclovir (Injection)"
+      "Acyclovir (Topical)"
     ],
     "manufacturer": "The IBN SINA Pharmaceutical PLC",
-    "dosage_form": "IV Infusion"
+    "dosage_form": "Cream"
   },
   {
     "brand_name": "Clovir",
@@ -46836,12 +46890,12 @@
   },
   {
     "brand_name": "Clovir",
-    "power": "5% w/w",
+    "power": "250 mg/vial",
     "generic_names": [
-      "Acyclovir (Topical)"
+      "Acyclovir (Injection)"
     ],
     "manufacturer": "The IBN SINA Pharmaceutical PLC",
-    "dosage_form": "Cream"
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Clox-F",
@@ -46998,7 +47052,7 @@
   },
   {
     "brand_name": "Clozep",
-    "power": "0.5 mg",
+    "power": "2 mg",
     "generic_names": [
       "Clonazepam"
     ],
@@ -47007,7 +47061,7 @@
   },
   {
     "brand_name": "Clozep",
-    "power": "2 mg",
+    "power": "0.5 mg",
     "generic_names": [
       "Clonazepam"
     ],
@@ -47035,21 +47089,21 @@
   },
   {
     "brand_name": "Clozyl",
-    "power": "200 mg/5 ml",
-    "generic_names": [
-      "Metronidazole"
-    ],
-    "manufacturer": "Team Pharmaceuticals Ltd.",
-    "dosage_form": "Oral Suspension"
-  },
-  {
-    "brand_name": "Clozyl",
     "power": "400 mg",
     "generic_names": [
       "Metronidazole"
     ],
     "manufacturer": "Team Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Clozyl",
+    "power": "200 mg/5 ml",
+    "generic_names": [
+      "Metronidazole"
+    ],
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosage_form": "Oral Suspension"
   },
   {
     "brand_name": "CMC",
@@ -47211,7 +47265,7 @@
   },
   {
     "brand_name": "Co-dopa CR",
-    "power": "25 mg+100 mg",
+    "power": "50 mg+200 mg",
     "generic_names": [
       "Carbidopa",
       "Levodopa (Prolonged release)"
@@ -47221,7 +47275,7 @@
   },
   {
     "brand_name": "Co-dopa CR",
-    "power": "50 mg+200 mg",
+    "power": "25 mg+100 mg",
     "generic_names": [
       "Carbidopa",
       "Levodopa (Prolonged release)"
@@ -47347,7 +47401,7 @@
   },
   {
     "brand_name": "Coderin",
-    "power": "5 mg+120 mg",
+    "power": "10 mg+240 mg",
     "generic_names": [
       "Loratadine",
       "Pseudoephedrine"
@@ -47357,7 +47411,7 @@
   },
   {
     "brand_name": "Coderin",
-    "power": "10 mg+240 mg",
+    "power": "5 mg+120 mg",
     "generic_names": [
       "Loratadine",
       "Pseudoephedrine"
@@ -47715,21 +47769,21 @@
   },
   {
     "brand_name": "Colik",
-    "power": "20 mg",
-    "generic_names": [
-      "Hyoscine Butylbromide"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Colik",
     "power": "20 mg/ml",
     "generic_names": [
       "Hyoscine Butylbromide"
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
     "dosage_form": "Injection"
+  },
+  {
+    "brand_name": "Colik",
+    "power": "20 mg",
+    "generic_names": [
+      "Hyoscine Butylbromide"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Colik",
@@ -47778,7 +47832,7 @@
   },
   {
     "brand_name": "Colistimethate (CMS)",
-    "power": "4.5 MIU (150 mg)",
+    "power": "1 MIU (34 mg)",
     "generic_names": [
       "Colistimethate Sodium"
     ],
@@ -47787,7 +47841,7 @@
   },
   {
     "brand_name": "Colistimethate (CMS)",
-    "power": "1 MIU (34 mg)",
+    "power": "4.5 MIU (150 mg)",
     "generic_names": [
       "Colistimethate Sodium"
     ],
@@ -47905,7 +47959,7 @@
   },
   {
     "brand_name": "Comarit",
-    "power": "80 mg",
+    "power": "20 mg",
     "generic_names": [
       "Cabozantinib"
     ],
@@ -47914,7 +47968,7 @@
   },
   {
     "brand_name": "Comarit",
-    "power": "20 mg",
+    "power": "80 mg",
     "generic_names": [
       "Cabozantinib"
     ],
@@ -48844,7 +48898,7 @@
   },
   {
     "brand_name": "Cope",
-    "power": "100 mg",
+    "power": "25 mg",
     "generic_names": [
       "Clozapine"
     ],
@@ -48853,7 +48907,7 @@
   },
   {
     "brand_name": "Cope",
-    "power": "25 mg",
+    "power": "100 mg",
     "generic_names": [
       "Clozapine"
     ],
@@ -48933,15 +48987,6 @@
   },
   {
     "brand_name": "Coport",
-    "power": "25 mg",
-    "generic_names": [
-      "Empagliflozin"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Coport",
     "power": "10 mg",
     "generic_names": [
       "Empagliflozin"
@@ -48950,8 +48995,17 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Coport",
+    "power": "25 mg",
+    "generic_names": [
+      "Empagliflozin"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Coport L",
-    "power": "10 mg+5 mg",
+    "power": "25 mg+5 mg",
     "generic_names": [
       "Empagliflozin",
       "Linagliptin"
@@ -48961,7 +49015,7 @@
   },
   {
     "brand_name": "Coport L",
-    "power": "25 mg+5 mg",
+    "power": "10 mg+5 mg",
     "generic_names": [
       "Empagliflozin",
       "Linagliptin"
@@ -49516,7 +49570,7 @@
   },
   {
     "brand_name": "Corazon",
-    "power": "2.5 mg",
+    "power": "5 mg",
     "generic_names": [
       "Vericiguat"
     ],
@@ -49525,7 +49579,7 @@
   },
   {
     "brand_name": "Corazon",
-    "power": "5 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Vericiguat"
     ],
@@ -49563,15 +49617,6 @@
   },
   {
     "brand_name": "Cordarone",
-    "power": "200 mg",
-    "generic_names": [
-      "Amiodarone Hydrochloride"
-    ],
-    "manufacturer": "Synovia Pharma PLC.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "Cordarone",
     "power": "100 mg",
     "generic_names": [
       "Amiodarone Hydrochloride"
@@ -49580,8 +49625,17 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Cordarone",
+    "power": "200 mg",
+    "generic_names": [
+      "Amiodarone Hydrochloride"
+    ],
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Cordef",
-    "power": "24 mg",
+    "power": "6 mg",
     "generic_names": [
       "Deflazacort"
     ],
@@ -49590,7 +49644,7 @@
   },
   {
     "brand_name": "Cordef",
-    "power": "6 mg",
+    "power": "24 mg",
     "generic_names": [
       "Deflazacort"
     ],
@@ -49644,7 +49698,7 @@
   },
   {
     "brand_name": "Corlift",
-    "power": "10 mg",
+    "power": "2.5 mg",
     "generic_names": [
       "Vericiguat"
     ],
@@ -49662,7 +49716,7 @@
   },
   {
     "brand_name": "Corlift",
-    "power": "2.5 mg",
+    "power": "10 mg",
     "generic_names": [
       "Vericiguat"
     ],
@@ -49971,7 +50025,7 @@
   },
   {
     "brand_name": "Corzil",
-    "power": "80 mg",
+    "power": "40 mg",
     "generic_names": [
       "Azilsartan Medoxomil"
     ],
@@ -49980,7 +50034,7 @@
   },
   {
     "brand_name": "Corzil",
-    "power": "40 mg",
+    "power": "80 mg",
     "generic_names": [
       "Azilsartan Medoxomil"
     ],
@@ -50473,7 +50527,7 @@
   },
   {
     "brand_name": "Coveram",
-    "power": "4 mg+5 mg",
+    "power": "4 mg+10 mg",
     "generic_names": [
       "Perindopril Arginine",
       "Amlodipine"
@@ -50483,7 +50537,7 @@
   },
   {
     "brand_name": "Coveram",
-    "power": "4 mg+10 mg",
+    "power": "4 mg+5 mg",
     "generic_names": [
       "Perindopril Arginine",
       "Amlodipine"
@@ -51032,7 +51086,7 @@
   },
   {
     "brand_name": "Creso",
-    "power": "40 mg",
+    "power": "20 mg",
     "generic_names": [
       "Esomeprazole"
     ],
@@ -51041,7 +51095,7 @@
   },
   {
     "brand_name": "Creso",
-    "power": "20 mg",
+    "power": "40 mg",
     "generic_names": [
       "Esomeprazole"
     ],
@@ -51050,7 +51104,7 @@
   },
   {
     "brand_name": "Creston",
-    "power": "20 mg",
+    "power": "5 mg",
     "generic_names": [
       "Rosuvastatin Calcium"
     ],
@@ -51059,7 +51113,7 @@
   },
   {
     "brand_name": "Creston",
-    "power": "5 mg",
+    "power": "20 mg",
     "generic_names": [
       "Rosuvastatin Calcium"
     ],
@@ -52150,16 +52204,16 @@
   },
   {
     "brand_name": "D-Balance",
-    "power": "200000 IU/ml",
+    "power": "2000 IU/ml",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "Injectable Solution (Oral & IM)"
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "D-Balance",
-    "power": "50000 IU",
+    "power": "20000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
@@ -52168,12 +52222,12 @@
   },
   {
     "brand_name": "D-Balance",
-    "power": "2000 IU/ml",
+    "power": "40000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "Oral Solution"
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "D-Balance",
@@ -52186,7 +52240,7 @@
   },
   {
     "brand_name": "D-Balance",
-    "power": "40000 IU",
+    "power": "50000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
@@ -52195,12 +52249,12 @@
   },
   {
     "brand_name": "D-Balance",
-    "power": "20000 IU",
+    "power": "200000 IU/ml",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "Square Pharmaceuticals PLC",
-    "dosage_form": "Capsule"
+    "dosage_form": "Injectable Solution (Oral & IM)"
   },
   {
     "brand_name": "D-Best",
@@ -52249,7 +52303,7 @@
   },
   {
     "brand_name": "D-Build",
-    "power": "20000 IU",
+    "power": "40000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
@@ -52258,7 +52312,7 @@
   },
   {
     "brand_name": "D-Build",
-    "power": "40000 IU",
+    "power": "20000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
@@ -52551,7 +52605,7 @@
   },
   {
     "brand_name": "D-Fozin",
-    "power": "25 mg",
+    "power": "10 mg",
     "generic_names": [
       "Empagliflozin"
     ],
@@ -52560,7 +52614,7 @@
   },
   {
     "brand_name": "D-Fozin",
-    "power": "10 mg",
+    "power": "25 mg",
     "generic_names": [
       "Empagliflozin"
     ],
@@ -52579,7 +52633,7 @@
   },
   {
     "brand_name": "D-gain",
-    "power": "40000 IU",
+    "power": "20000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
@@ -52588,7 +52642,7 @@
   },
   {
     "brand_name": "D-gain",
-    "power": "20000 IU",
+    "power": "40000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
@@ -52680,7 +52734,7 @@
   },
   {
     "brand_name": "D-Lina M",
-    "power": "2.5 mg+500 mg",
+    "power": "2.5 mg+850 mg",
     "generic_names": [
       "Linagliptin",
       "Metformin Hydrochloride"
@@ -52690,7 +52744,7 @@
   },
   {
     "brand_name": "D-Lina M",
-    "power": "2.5 mg+850 mg",
+    "power": "2.5 mg+500 mg",
     "generic_names": [
       "Linagliptin",
       "Metformin Hydrochloride"
@@ -52836,12 +52890,39 @@
   },
   {
     "brand_name": "D-Rise",
-    "power": "2000 IU/ml",
+    "power": "40000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Oral Solution"
+    "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "D-Rise",
+    "power": "20000 IU",
+    "generic_names": [
+      "Cholecalciferol [Vitamin D3]"
+    ],
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "D-Rise",
+    "power": "2000 IU",
+    "generic_names": [
+      "Cholecalciferol [Vitamin D3]"
+    ],
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "D-Rise",
+    "power": "50000 IU",
+    "generic_names": [
+      "Cholecalciferol [Vitamin D3]"
+    ],
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "D-Rise",
@@ -52854,30 +52935,12 @@
   },
   {
     "brand_name": "D-Rise",
-    "power": "40000 IU",
+    "power": "2000 IU/ml",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "D-Rise",
-    "power": "20000 IU",
-    "generic_names": [
-      "Cholecalciferol [Vitamin D3]"
-    ],
-    "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "D-Rise",
-    "power": "2000 IU",
-    "generic_names": [
-      "Cholecalciferol [Vitamin D3]"
-    ],
-    "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "D-Rise",
@@ -52889,15 +52952,6 @@
     "dosage_form": "Injectable Solution (Oral & IM)"
   },
   {
-    "brand_name": "D-Rise",
-    "power": "50000 IU",
-    "generic_names": [
-      "Cholecalciferol [Vitamin D3]"
-    ],
-    "manufacturer": "Beximco Pharmaceuticals Ltd.",
-    "dosage_form": "Capsule"
-  },
-  {
     "brand_name": "D-Set",
     "power": "40000 IU",
     "generic_names": [
@@ -52926,12 +52980,12 @@
   },
   {
     "brand_name": "D-Shine",
-    "power": "2000 IU",
+    "power": "20000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "One Pharma Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "D-Shine",
@@ -52944,12 +52998,12 @@
   },
   {
     "brand_name": "D-Shine",
-    "power": "20000 IU",
+    "power": "2000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "One Pharma Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "D-Sol",
@@ -52962,15 +53016,6 @@
   },
   {
     "brand_name": "D-Star",
-    "power": "2000 IU",
-    "generic_names": [
-      "Cholecalciferol [Vitamin D3]"
-    ],
-    "manufacturer": "NIPRO JMI Pharma Ltd.",
-    "dosage_form": "Tablet"
-  },
-  {
-    "brand_name": "D-Star",
     "power": "20000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
@@ -52986,6 +53031,15 @@
     ],
     "manufacturer": "NIPRO JMI Pharma Ltd.",
     "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "D-Star",
+    "power": "2000 IU",
+    "generic_names": [
+      "Cholecalciferol [Vitamin D3]"
+    ],
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "D-Toin",
@@ -53007,7 +53061,7 @@
   },
   {
     "brand_name": "D-up",
-    "power": "20000 IU",
+    "power": "40000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
@@ -53016,12 +53070,21 @@
   },
   {
     "brand_name": "D-up",
-    "power": "40000 IU",
+    "power": "20000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "Benham Pharmaceuticals Ltd.",
     "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "D-Vine",
+    "power": "2000 IU/ml",
+    "generic_names": [
+      "Cholecalciferol [Vitamin D3]"
+    ],
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "D-Vine",
@@ -53067,15 +53130,6 @@
     ],
     "manufacturer": "Healthcare Pharmaceuticals Ltd.",
     "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "D-Vine",
-    "power": "2000 IU/ml",
-    "generic_names": [
-      "Cholecalciferol [Vitamin D3]"
-    ],
-    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
-    "dosage_form": "Oral Solution"
   },
   {
     "brand_name": "D-Vital",
@@ -53099,30 +53153,12 @@
   },
   {
     "brand_name": "D3",
-    "power": "200000 IU/ml",
+    "power": "2000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Injectable Solution (Oral & IM)"
-  },
-  {
-    "brand_name": "D3",
-    "power": "200 IU/ml",
-    "generic_names": [
-      "Cholecalciferol [Vitamin D3]"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Pediatric Drops"
-  },
-  {
-    "brand_name": "D3",
-    "power": "40000 IU",
-    "generic_names": [
-      "Cholecalciferol [Vitamin D3]"
-    ],
-    "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Capsule"
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "D3",
@@ -53135,12 +53171,30 @@
   },
   {
     "brand_name": "D3",
-    "power": "2000 IU",
+    "power": "40000 IU",
     "generic_names": [
       "Cholecalciferol [Vitamin D3]"
     ],
     "manufacturer": "Advanced Chemical Industries PLC",
-    "dosage_form": "Tablet"
+    "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "D3",
+    "power": "200 IU/ml",
+    "generic_names": [
+      "Cholecalciferol [Vitamin D3]"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Pediatric Drops"
+  },
+  {
+    "brand_name": "D3",
+    "power": "200000 IU/ml",
+    "generic_names": [
+      "Cholecalciferol [Vitamin D3]"
+    ],
+    "manufacturer": "Advanced Chemical Industries PLC",
+    "dosage_form": "Injectable Solution (Oral & IM)"
   },
   {
     "brand_name": "D3",
@@ -53198,7 +53252,7 @@
   },
   {
     "brand_name": "Dabiren",
-    "power": "75 mg",
+    "power": "150 mg",
     "generic_names": [
       "Dabigatran Etexilate Mesylate"
     ],
@@ -53207,7 +53261,7 @@
   },
   {
     "brand_name": "Dabiren",
-    "power": "150 mg",
+    "power": "75 mg",
     "generic_names": [
       "Dabigatran Etexilate Mesylate"
     ],
@@ -53453,12 +53507,12 @@
   },
   {
     "brand_name": "Dalatic",
-    "power": "300 mg",
+    "power": "600 mg/4 ml",
     "generic_names": [
       "Clindamycin"
     ],
     "manufacturer": "Drug International Ltd.",
-    "dosage_form": "Capsule"
+    "dosage_form": "IM/IV Injection"
   },
   {
     "brand_name": "Dalatic Plus",
@@ -58195,6 +58249,24 @@
     "dosage_form": "Capsule (Enteric Coated)"
   },
   {
+    "brand_name": "Dexica",
+    "power": "30 mg",
+    "generic_names": [
+      "Dexlansoprazole"
+    ],
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule (Enteric Coated)"
+  },
+  {
+    "brand_name": "Dexica",
+    "power": "60 mg",
+    "generic_names": [
+      "Dexlansoprazole"
+    ],
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule (Enteric Coated)"
+  },
+  {
     "brand_name": "Dexifen",
     "power": "200 mg",
     "generic_names": [
@@ -61436,12 +61508,12 @@
   },
   {
     "brand_name": "Diparin",
-    "power": "25000 IU/5 ml",
+    "power": "5000 IU/ml",
     "generic_names": [
       "Heparin Sodium"
     ],
     "manufacturer": "Drug International Ltd.",
-    "dosage_form": "Injection"
+    "dosage_form": "IV/SC Injection"
   },
   {
     "brand_name": "Diphedan",
@@ -68441,6 +68513,17 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Elisa LF",
+    "power": "0.03 mg+3 mg+0.415 mg",
+    "generic_names": [
+      "Drospirenone",
+      "Ethinyl Estradiol",
+      "Levomefolate"
+    ],
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Elite (Rhythm)",
     "power": "Manual blood pressure monitor",
     "generic_names": [
@@ -73921,6 +74004,33 @@
     "dosage_form": "IV Infusion"
   },
   {
+    "brand_name": "Esaxeron",
+    "power": "1.25 mg",
+    "generic_names": [
+      "Esaxerenone"
+    ],
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Esaxeron",
+    "power": "2.5 mg",
+    "generic_names": [
+      "Esaxerenone"
+    ],
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Esaxeron",
+    "power": "5 mg",
+    "generic_names": [
+      "Esaxerenone"
+    ],
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Escap",
     "power": "20 mg",
     "generic_names": [
@@ -74374,7 +74484,7 @@
   },
   {
     "brand_name": "Esocon MUPS",
-    "power": "40 mg",
+    "power": "20 mg",
     "generic_names": [
       "Esomeprazole (MUPS preparation)"
     ],
@@ -74383,7 +74493,7 @@
   },
   {
     "brand_name": "Esocon MUPS",
-    "power": "20 mg",
+    "power": "40 mg",
     "generic_names": [
       "Esomeprazole (MUPS preparation)"
     ],
@@ -78358,6 +78468,33 @@
     ],
     "manufacturer": "Orion Pharma Ltd.",
     "dosage_form": "IV Injection"
+  },
+  {
+    "brand_name": "Exoren",
+    "power": "5 mg",
+    "generic_names": [
+      "Esaxerenone"
+    ],
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Exoren",
+    "power": "2.5 mg",
+    "generic_names": [
+      "Esaxerenone"
+    ],
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Exoren",
+    "power": "1.25 mg",
+    "generic_names": [
+      "Esaxerenone"
+    ],
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
   },
   {
     "brand_name": "Exovate",
@@ -84345,6 +84482,24 @@
       "L-Lysine"
     ],
     "manufacturer": "Opsonin Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Firom",
+    "power": "80 mg",
+    "generic_names": [
+      "Resmetirom"
+    ],
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Firom",
+    "power": "60 mg",
+    "generic_names": [
+      "Resmetirom"
+    ],
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
   },
   {
@@ -92536,12 +92691,12 @@
   },
   {
     "brand_name": "G-Heparin",
-    "power": "25000 IU/5 ml",
+    "power": "5000 IU/ml",
     "generic_names": [
       "Heparin Sodium"
     ],
     "manufacturer": "Gonoshasthaya Pharma Ltd.",
-    "dosage_form": "Injection"
+    "dosage_form": "IV/SC Injection"
   },
   {
     "brand_name": "G-Hidrocortisone",
@@ -93012,6 +93167,15 @@
       "Prednisolone"
     ],
     "manufacturer": "Gonoshasthaya Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "G-Pro",
+    "power": "50 mg",
+    "generic_names": [
+      "Itopride Hydrochloride"
+    ],
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
   },
   {
@@ -100610,22 +100774,31 @@
     "dosage_form": "Oral Powder"
   },
   {
+    "brand_name": "Heparin",
+    "power": "5000 IU/ml",
+    "generic_names": [
+      "Heparin Sodium"
+    ],
+    "manufacturer": "ZAS Corporation",
+    "dosage_form": "IV/SC Injection"
+  },
+  {
     "brand_name": "Heparin Panpharma",
-    "power": "25000 IU/5 ml",
+    "power": "5000 IU/ml",
     "generic_names": [
       "Heparin Sodium"
     ],
     "manufacturer": "City Overseas Ltd.",
-    "dosage_form": "Injection"
+    "dosage_form": "IV/SC Injection"
   },
   {
     "brand_name": "Heparon",
-    "power": "25000 IU/5 ml",
+    "power": "5000 IU/ml",
     "generic_names": [
       "Heparin Sodium"
     ],
     "manufacturer": "Beacon Pharmaceuticals PLC",
-    "dosage_form": "Injection"
+    "dosage_form": "IV/SC Injection"
   },
   {
     "brand_name": "Hepatab",
@@ -104057,6 +104230,24 @@
     "dosage_form": "Injection"
   },
   {
+    "brand_name": "ImmunoMab",
+    "power": "40 mg/4 ml",
+    "generic_names": [
+      "Nivolumab"
+    ],
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosage_form": "IV Infusion"
+  },
+  {
+    "brand_name": "ImmunoMab",
+    "power": "100 mg/10 ml",
+    "generic_names": [
+      "Nivolumab"
+    ],
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosage_form": "IV Infusion"
+  },
+  {
     "brand_name": "IMMUNORho",
     "power": "300 mcg/2 ml",
     "generic_names": [
@@ -104804,7 +104995,7 @@
   },
   {
     "brand_name": "Indula",
-    "power": "25 mcg",
+    "power": "200 mcg",
     "generic_names": [
       "Misoprostol"
     ],
@@ -104813,7 +105004,7 @@
   },
   {
     "brand_name": "Indula",
-    "power": "200 mcg",
+    "power": "25 mcg",
     "generic_names": [
       "Misoprostol"
     ],
@@ -107537,6 +107728,15 @@
     ],
     "manufacturer": "Benham Pharmaceuticals Ltd.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Itracap",
+    "power": "65 mg",
+    "generic_names": [
+      "Itraconazole"
+    ],
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Itracap",
@@ -111399,21 +111599,21 @@
   },
   {
     "brand_name": "Kingdol",
-    "power": "50 mg",
-    "generic_names": [
-      "Tramadol Hydrochloride"
-    ],
-    "manufacturer": "Drug International Ltd.",
-    "dosage_form": "Capsule"
-  },
-  {
-    "brand_name": "Kingdol",
     "power": "100 mg",
     "generic_names": [
       "Tramadol Hydrochloride"
     ],
     "manufacturer": "Drug International Ltd.",
     "dosage_form": "Suppository"
+  },
+  {
+    "brand_name": "Kingdol",
+    "power": "50 mg",
+    "generic_names": [
+      "Tramadol Hydrochloride"
+    ],
+    "manufacturer": "Drug International Ltd.",
+    "dosage_form": "Capsule"
   },
   {
     "brand_name": "Kisqali",
@@ -115018,6 +115218,15 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Letybo",
+    "power": "100 unit/vial",
+    "generic_names": [
+      "LetibotulinumtoxinA"
+    ],
+    "manufacturer": "ZAS Corporation",
+    "dosage_form": "IM Injection"
+  },
+  {
     "brand_name": "Leucita AqVida",
     "power": "300 mcg/0.5 ml",
     "generic_names": [
@@ -116574,6 +116783,16 @@
       "Lidocaine Hydrochloride (Injection)"
     ],
     "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosage_form": "Injection"
+  },
+  {
+    "brand_name": "Lidocaine Adrenaline Aguettant",
+    "power": "2%+0.0005%",
+    "generic_names": [
+      "Lidocaine",
+      "Adrenaline"
+    ],
+    "manufacturer": "ZAS Corporation",
     "dosage_form": "Injection"
   },
   {
@@ -127122,12 +127341,12 @@
   },
   {
     "brand_name": "Megarin",
-    "power": "25000 IU/5 ml",
+    "power": "5000 IU/ml",
     "generic_names": [
       "Heparin Sodium"
     ],
     "manufacturer": "Incepta Pharmaceuticals Ltd.",
-    "dosage_form": "Injection"
+    "dosage_form": "IV/SC Injection"
   },
   {
     "brand_name": "Megasim",
@@ -136061,12 +136280,12 @@
   },
   {
     "brand_name": "Multiparin",
-    "power": "25000 IU/5 ml",
+    "power": "5000 IU/ml",
     "generic_names": [
       "Heparin Sodium"
     ],
     "manufacturer": "Radiant Pharmaceuticals Ltd.",
-    "dosage_form": "Injection"
+    "dosage_form": "IV/SC Injection"
   },
   {
     "brand_name": "Multisina",
@@ -139294,6 +139513,16 @@
     ],
     "manufacturer": "Chemist Laboratories  Ltd.",
     "dosage_form": "Nasal Drop"
+  },
+  {
+    "brand_name": "Nasofix",
+    "power": "(2.5 mg+3 mg)/gm",
+    "generic_names": [
+      "Phenylephrine",
+      "Chlorhexidine gluconate"
+    ],
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosage_form": "Nasal Cream"
   },
   {
     "brand_name": "Nasoflu",
@@ -146634,6 +146863,15 @@
     ],
     "manufacturer": "Popular Pharmaceuticals PLC",
     "dosage_form": "IV Injection"
+  },
+  {
+    "brand_name": "Novact M",
+    "power": "500 IU/vial",
+    "generic_names": [
+      "Coagulation Factor IX"
+    ],
+    "manufacturer": "ZAS Corporation",
+    "dosage_form": "IV Infusion"
   },
   {
     "brand_name": "Novadin",
@@ -162888,7 +163126,7 @@
     "dosage_form": "IV Infusion"
   },
   {
-    "brand_name": "Pemetrexed Ever Pharma",
+    "brand_name": "Pemetrexed",
     "power": "100 mg/4 ml",
     "generic_names": [
       "Pemetrexed"
@@ -162897,7 +163135,7 @@
     "dosage_form": "IV Infusion"
   },
   {
-    "brand_name": "Pemetrexed Ever Pharma",
+    "brand_name": "Pemetrexed",
     "power": "500 mg/20 ml",
     "generic_names": [
       "Pemetrexed"
@@ -183004,6 +183242,33 @@
     "dosage_form": "Tablet (Sustained Release)"
   },
   {
+    "brand_name": "Rispera",
+    "power": "1 mg",
+    "generic_names": [
+      "Risperidone"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Rispera",
+    "power": "2 mg",
+    "generic_names": [
+      "Risperidone"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Rispera",
+    "power": "4 mg",
+    "generic_names": [
+      "Risperidone"
+    ],
+    "manufacturer": "Aristopharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Risperdex",
     "power": "4 mg",
     "generic_names": [
@@ -190150,6 +190415,15 @@
     ],
     "manufacturer": "Delta Pharma PLC.",
     "dosage_form": "Tablet"
+  },
+  {
+    "brand_name": "Scadil",
+    "power": "0.9% w/w",
+    "generic_names": [
+      "Spinosad"
+    ],
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosage_form": "Topical Suspension"
   },
   {
     "brand_name": "Scalpe Plus",
@@ -202652,6 +202926,24 @@
     "dosage_form": "Ointment"
   },
   {
+    "brand_name": "Tacrolimus",
+    "power": "1 mg",
+    "generic_names": [
+      "Tacrolimus Monohydrate (Oral)"
+    ],
+    "manufacturer": "ZAS Corporation",
+    "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "Tacrolimus",
+    "power": "0.5 mg",
+    "generic_names": [
+      "Tacrolimus Monohydrate (Oral)"
+    ],
+    "manufacturer": "ZAS Corporation",
+    "dosage_form": "Capsule"
+  },
+  {
     "brand_name": "Tacromus",
     "power": "0.5 mg",
     "generic_names": [
@@ -209741,6 +210033,33 @@
     "dosage_form": "SC Injection"
   },
   {
+    "brand_name": "Tirzepin",
+    "power": "2.5 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Tirzepin",
+    "power": "5 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Tirzepin",
+    "power": "7.5 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosage_form": "SC Injection"
+  },
+  {
     "brand_name": "Tirzide",
     "power": "2.5 mg/0.5 ml",
     "generic_names": [
@@ -211943,6 +212262,15 @@
     "dosage_form": "Tablet"
   },
   {
+    "brand_name": "Torevix",
+    "power": "120 mg",
+    "generic_names": [
+      "Etoricoxib"
+    ],
+    "manufacturer": "C2C Pharma Ltd.",
+    "dosage_form": "Tablet"
+  },
+  {
     "brand_name": "Torimon",
     "power": "90 mg",
     "generic_names": [
@@ -213038,7 +213366,7 @@
   },
   {
     "brand_name": "TRD-Contin",
-    "power": "100 mg",
+    "power": "50 mg",
     "generic_names": [
       "Tramadol Hydrochloride"
     ],
@@ -213047,7 +213375,7 @@
   },
   {
     "brand_name": "TRD-Contin",
-    "power": "50 mg",
+    "power": "100 mg",
     "generic_names": [
       "Tramadol Hydrochloride"
     ],
@@ -229844,6 +230172,24 @@
     "dosage_form": "IM/IV Injection"
   },
   {
+    "brand_name": "Xenliva",
+    "power": "4 mg",
+    "generic_names": [
+      "Lenvatinib Mesylate"
+    ],
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule"
+  },
+  {
+    "brand_name": "Xenliva",
+    "power": "10 mg",
+    "generic_names": [
+      "Lenvatinib Mesylate"
+    ],
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosage_form": "Capsule"
+  },
+  {
     "brand_name": "Xenmep",
     "power": "500 mg+20 mg",
     "generic_names": [
@@ -230011,7 +230357,7 @@
       "Clobetasol Propionate"
     ],
     "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
-    "dosage_form": "Scalp Solution"
+    "dosage_form": "Cream"
   },
   {
     "brand_name": "Xenovate",
@@ -230020,7 +230366,7 @@
       "Clobetasol Propionate"
     ],
     "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
-    "dosage_form": "Cream"
+    "dosage_form": "Scalp Solution"
   },
   {
     "brand_name": "Xenthol",
@@ -230171,6 +230517,15 @@
   },
   {
     "brand_name": "XeroSoft",
+    "power": "63.4%",
+    "generic_names": [
+      "Light liquid paraffin"
+    ],
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosage_form": "Emulsion"
+  },
+  {
+    "brand_name": "XeroSoft",
     "power": "8%+3%",
     "generic_names": [
       "White Soft Paraffin",
@@ -230178,15 +230533,6 @@
     ],
     "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
     "dosage_form": "Lotion"
-  },
-  {
-    "brand_name": "XeroSoft",
-    "power": "63.4%",
-    "generic_names": [
-      "Light liquid paraffin"
-    ],
-    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
-    "dosage_form": "Emulsion"
   },
   {
     "brand_name": "XeroSoft 50:50",
@@ -233496,6 +233842,33 @@
       "Tirzepatide"
     ],
     "manufacturer": "Popular Pharmaceuticals PLC",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Zepatid",
+    "power": "10 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Zepatid",
+    "power": "15 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosage_form": "SC Injection"
+  },
+  {
+    "brand_name": "Zepatid",
+    "power": "12.5 mg/0.5 ml",
+    "generic_names": [
+      "Tirzepatide"
+    ],
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
     "dosage_form": "SC Injection"
   },
   {
@@ -237396,7 +237769,7 @@
       "Biotin"
     ],
     "manufacturer": "Eskayef Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Dispersible Tablet"
   },
   {
     "brand_name": "B7",
@@ -237405,7 +237778,7 @@
       "Biotin"
     ],
     "manufacturer": "Eskayef Pharmaceuticals Ltd.",
-    "dosage_form": "Tablet"
+    "dosage_form": "Dispersible Tablet"
   },
   {
     "brand_name": "Bacigut",
